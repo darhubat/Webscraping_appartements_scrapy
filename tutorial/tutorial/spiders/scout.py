@@ -11,6 +11,12 @@ class ScoutSpider(scrapy.Spider):
     page_number = 1
 
     def parse(self, response):
+        """
+        last_page = response.css('#root > div.Box-cYFBPY.Flex-feqWzG.icgscM.dCDRxm > main > div > div.Box-cYFBPY.Content-d6uy11-0.gDehxi.caJNRl > section.Pagination__PaginationSection-KjraA.ixLAZP.StyledPagination-sc-1azjd6z-0.dSKUgq > div.Box-cYFBPY.Flex-feqWzG.cVExzc.dCDRxm > div.Box-cYFBPY.Flex-feqWzG.dpEUFz.dCDRxm > a::text').extract()[:]
+        yield {
+            'letzte_Seite': last_page
+        }
+        """
         for article in response.css('article'):
             try:
                 Wohnungsart = article.css('span.Box-cYFBPY.Badge__StyledBadge-bJJanS.kQjLxE.fdYwUL::text').getall()[0],
@@ -33,7 +39,7 @@ class ScoutSpider(scrapy.Spider):
                print(f'Crawling {article} fehlgeschlagen')
 
         next_page = 'https://www.immoscout24.ch/de/wohnung/kaufen/land-schweiz-fl?pn=' + str(ScoutSpider.page_number)
-        if ScoutSpider.page_number <= 10:
+        if ScoutSpider.page_number <= 44:
             ScoutSpider.page_number += 1
             yield response.follow(next_page, callback = self.parse)
 

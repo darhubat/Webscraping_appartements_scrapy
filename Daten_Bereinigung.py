@@ -9,6 +9,7 @@ df['Zimmeranzahl'] = df['Zimmeranzahl'].str.replace(",", ".")
 df['Wohnungsgrösse_m2'] = df['Wohnungsgrösse_m2'].str.extract('(\d*)', expand=True)
 df['Verkaufspreis'] = df['Verkaufspreis'].str.extract('(\d+\s\d*\s?\d*)', expand=True)
 df['Verkaufspreis'] = df['Verkaufspreis'].str.replace(" ", "").fillna(0)
+df['Wohnungsart'] = df['Wohnungsart'].fillna('unbekannt')
 df['Kanton'] = df['Wohnungs_Adresse'].str[-2:]
 df['Datum'] = pd.to_datetime(df['Datum'], errors='coerce').dt.normalize()
 df['Zimmeranzahl'] = df['Zimmeranzahl'].astype(float).fillna(0)
@@ -26,7 +27,6 @@ def eval_results(x):
         return (x.latitude, x.longitude)
     except:
         return (None, None)
-
-
-df['Latitude/Longitude'] = df['Wohnungs_Adresse'].apply(geolocator.geocode, timeout=100).apply(lambda x: eval_results(x))
-df.to_csv(r'output\appartements_bereinigt.csv', sep=',')
+df['Latitude/Longitude'] = df['Wohnungs_Adresse'].apply(geolocator.geocode, timeout=100).apply(
+    lambda x: eval_results(x))
+df.to_csv(r'output\appartements_bereinigt.csv', sep=',', index=False)

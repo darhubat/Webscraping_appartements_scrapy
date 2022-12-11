@@ -34,11 +34,18 @@ app.layout = html.Div(children=[
                 dcc.Dropdown(id='Wohnungsart',
                  options=[
                      # die Labels könnte man auch über eine Funktion als Liste automatisch generieren
-                     {"label": art, "value": art} for art in df.Wohnungsart.unique()
-                 ],
-                 multi=True,
-                 value=['Neubau', 'Neubauprojekt'])]),
+                     {"label": art, "value": art} for art in df.Wohnungsart.unique()],
+                    multi=True,
+                    value=['Neubau', 'Neubauprojekt', 'unbekannt'])]),
 
+    html.Div([html.H3('Begrenzung auf Kanton'),
+                dcc.Checklist(id='Kanton',
+                    options=[
+                    # die Labels könnte man auch über eine Funktion als Liste automatisch generieren
+                    {"label": kant, "value": kant} for kant in df.Kanton.unique()],
+                    inline=True,
+                    style={"padding": "10px", "max-width": "800px", "margin": "auto"},
+                    value=[kant for kant in df.Kanton.unique()], )]),
 
     html.Div([html.H3('Anzahl-Zimmer'),
                 dcc.Dropdown(id='Zimmer_Anzahl',
@@ -84,16 +91,18 @@ app.layout = html.Div(children=[
      dash.dependencies.Output('table_chart','data'),
 
     [Input(component_id='Wohnungsart', component_property='value'),
+     Input(component_id='Kanton', component_property='value'),
      # Input(component_id='Datum', component_property='start_date'),
      # Input(component_id='Datum', component_property='end_date'),
      Input(component_id='Zimmer_Anzahl', component_property='value')]
 )
 
 
-def update_graph(option_slctd_wohnungsart, option_slctd_zimmer):
+def update_graph(option_slctd_wohnungsart, option_slctd_kanton, option_slctd_zimmer):
     dff = df.copy()
     # if bool(option_slctd_wohnungsart):
     dff = dff[dff.Wohnungsart.isin(option_slctd_wohnungsart)]
+    dff = dff[dff.Kanton.isin(option_slctd_kanton)]
     """
     start_date = pd.to_datetime(start_date)
     end_date = pd.to_datetime(end_date)
@@ -117,8 +126,7 @@ def update_graph(option_slctd_wohnungsart, option_slctd_zimmer):
             title='3D Scatterplot der Wohnungs-Verkaufspreise in der Schweiz',
             font=dict(size=8),
             template='plotly_dark',
-        )
-
+    )
 
     # Map
     fig_1 = px.scatter_geo(dff, lat='latitude', lon='longitude',

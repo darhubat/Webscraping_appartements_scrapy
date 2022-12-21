@@ -19,6 +19,8 @@ USER_AGENT = '*'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
+# FEEDS = {'./output/appartements_%(time)s.csv': {'format': 'csv', 'encoding': 'utf8'}}
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

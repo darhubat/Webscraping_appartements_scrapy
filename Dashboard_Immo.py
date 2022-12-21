@@ -12,7 +12,9 @@ app = dash.Dash(__name__)
 # für Heroku-Server ist die untenstehende Zeile notwendig
 server = app.server
 
-df = pd.read_csv(r'output\appartements_bereinigt.csv', delimiter=',', parse_dates=True)
+
+df = pd.read_csv(r'output_clean\\appartements_clean_lat_lon.csv', delimiter=',', parse_dates=True)
+# Datenbereinigung Schritt 1
 df['Datum'] = pd.to_datetime(df['Datum'], errors='coerce').dt.normalize()
 df.rename(columns = {'Latitude/Longitude': 'Koordinaten'}, inplace = True)
 df[['latitude', 'longitude']] = df['Koordinaten'].str.extract(pat = '(-?\d+\.\d+),\s*(-?\d+\.\d+)')

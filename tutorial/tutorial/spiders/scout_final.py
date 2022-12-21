@@ -9,12 +9,12 @@ class ScoutSpider(scrapy.Spider):
     start_urls = ['https://www.immoscout24.ch/de/wohnung/kaufen/land-schweiz-fl?pn=1']
     allowed_domains = ['www.immoscout24.ch']
     page_number = 1
-    """
     custom_settings = {
-        'FEEDS': {'./output/appartements_1.csv': {'format': 'csv',}, 'overwrite': False,
-                  'encoding': 'utf8'}
+        'FEEDS': {'./output/appartements_bereinigt.csv': {
+            'format': 'csv', 'encoding': 'utf8', 'overwrite': False,
+        }}
     }
-    """
+
 
     def parse(self, response):
 
@@ -61,5 +61,5 @@ class ScoutSpider(scrapy.Spider):
 
 
 
-# Scrapy starten und Resultate in csv schreiben (-o fügt hinzu, -O überschreibt)
-#Shell: scrapy runspider tutorial\tutorial\spiders\scout_final.py -t csv -o ./output/appartements.csv
+# Scrapy starten und Resultate in csv schreiben (-o fügt hinzu, -O überschreibt => -t csv -o ./output/appartements_bereinigt.csv)
+#Shell Spider laufen lassen => scrapy runspider tutorial\tutorial\spiders\scout_final.py

@@ -8,7 +8,7 @@ from dash import dash_table
 import datetime as dt
 
 
-app = dash.Dash(__name__, meta_tags=[{'name': 'viewport','content': 'width=device-width, initial-scale=1.0'}])
+app = dash.Dash(__name__, meta_tags=[{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}])
 # für Heroku-Server ist die untenstehende Zeile notwendig
 server = app.server
 

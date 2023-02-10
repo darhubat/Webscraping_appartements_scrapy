@@ -2,6 +2,7 @@ import pandas as pd
 import geopy
 import geopy.geocoders as geo
 from geopy.extra.rate_limiter import RateLimiter
+import time
 
 
 
@@ -36,10 +37,14 @@ geocode = RateLimiter(geolocator.geocode, min_delay_seconds=2)
 
 
 # Schaut, welche Zeilen noch keine Langitude & Longitude haben und dann werden nur für diese die Lat & Lon generiert
+start = time.time()
 missing = df['Latitude'].isna() & df['Longitude'].isna()
 locations = df.loc[missing, 'Wohnungs_Adresse'].apply(geolocator.geocode, timeout=30)
 df.loc[missing, 'Latitude'] = locations.apply(lambda location: location.latitude if location else 'unbekant')
 df.loc[missing, 'Longitude'] = locations.apply(lambda location: location.longitude if location else 'unbekannt')
+ende = time.time()
+print("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
+print(f' Gebrauchte Zeit für Longitude/Latitude Generierung: \n ** {ende - start} Sekunden **')
 
 
 # Schreibt die bereinigten und neu generierten Daten wieder in die CSV-Datei

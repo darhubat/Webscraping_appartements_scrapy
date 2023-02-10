@@ -3084,3 +3084,1030 @@ Datum,Wohnungsart,Zimmeranzahl,Wohnungsgrösse_m2,Verkaufspreis,Wohnungs_Adresse
 2023-02-08,unbekannt,3.5,140,0,"Niederstad 20, 6053 Alpnachstad, OW",OW,,clean,46.9635231,8.2913785
 2023-02-08,unbekannt,6.5,168,690000,"Neuweg 9, 4537 Wiedlisbach, BE",BE,,clean,47.246667349999996,7.641505487103178
 2023-02-08,unbekannt,8.5,246,2650000,"Therwilerstrasse 29, 4104 Oberwil BL, BL",BL,,clean,47.5122006,7.56235120109819
+2023-02-10,Neubau,4.5,100,770000,"Ackernweg  2, 7320 Sargans, SG",SG,,clean,47.05503605,9.447942036136073
+2023-02-10,Neubau,4.5,100,770000,"Ackernweg 2, 7320 Sargans, SG",SG,,clean,47.05503605,9.447942036136073
+2023-02-10,Neubau,4.5,95,790000,"Ackernweg 1, 7320 Sargans, SG",SG,,clean,47.05491755,9.447628162236658
+2023-02-10,Neubau,4.5,103,740000,"Ackernweg 1, 7320 Sargans, SG",SG,,clean,47.05491755,9.447628162236658
+2023-02-10,Neubau,4.5,158,1980000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,Neubau,3.5,113,1550000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,Neubau,4.5,92,660000,"Vordergasse 8, 3858 Hofstetten b. Brienz, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,109,820000,"Frutigenstrasse 22, 3700 Spiez, BE",BE,,clean,46.6834213,7.6645304
+2023-02-10,Neubau,2.5,78,498000,"Frutigenstrasse 22, 3700 Spiez, BE",BE,,clean,46.6834213,7.6645304
+2023-02-10,Neubau,0.0,0,826000,"1803 Chardonne, VD",VD,,clean,46.477407160000006,6.82901125
+2023-02-10,Neubau,2.5,55,665000,"Rue du Port 31, 1820 Montreux, VD",VD,,clean,46.442212049999995,6.896893654157193
+2023-02-10,Neubau,4.0,168,2660000,"1093 La Conversion, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,Neubau,5.5,175,1690000,"Haldenstrasse 30, 9548 Matzingen, TG",TG,,clean,47.52650375,8.927410799999995
+2023-02-10,Neubau,4.5,130,1375000,"Route de Vallaire 2, 1024 Ecublens VD, VD",VD,,clean,46.523201549999996,6.555788761610806
+2023-02-10,Neubau,4.5,130,1375000,"Route de Vallaire 2, 1024 Ecublens VD, VD",VD,,clean,46.523201549999996,6.555788761610806
+2023-02-10,Neubau,5.5,220,1950000,"Via del Canvetto 1, 6900 Lugano, TI",TI,,clean,46.0159702,8.9548637
+2023-02-10,Neubau,2.5,57,1300000,"Via Uerts 2, 7512 Champfèr, GR",GR,,clean,46.4766832,9.8107841
+2023-02-10,Neubau,4.5,0,1122000,"Via Campagnola 22/B, 6852 Genestrerio, TI",TI,,clean,45.8548069,8.9605784
+2023-02-10,Neubau,5.5,129,1200000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,136,1140000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,136,1190000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,3.5,80,1580000,"Via Riva Paradiso, 26, 6900 Paradiso, TI",TI,,clean,unbekant,unbekannt
+2023-02-10,Neubau,2.5,78,685000,"Via al Ponte 25, 6900 Massagno, TI",TI,,clean,46.0096205,8.9439837
+2023-02-10,Neubau,5.5,156,1450000,"Via Lavizzari 18, 6900 Lugano, TI",TI,,clean,46.0067788,8.9581251
+2023-02-10,Neubau,4.5,100,770000,"Ackernweg  2, 7320 Sargans, SG",SG,,clean,47.05503605,9.447942036136073
+2023-02-10,Neubau,4.5,100,770000,"Ackernweg 2, 7320 Sargans, SG",SG,,clean,47.05503605,9.447942036136073
+2023-02-10,Neubau,4.5,95,790000,"Ackernweg 1, 7320 Sargans, SG",SG,,clean,47.05491755,9.447628162236658
+2023-02-10,Neubau,4.5,103,740000,"Ackernweg 1, 7320 Sargans, SG",SG,,clean,47.05491755,9.447628162236658
+2023-02-10,Neubau,4.5,158,1980000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,Neubau,3.5,113,1550000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,Neubau,4.5,92,660000,"Vordergasse 8, 3858 Hofstetten b. Brienz, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,109,820000,"Frutigenstrasse 22, 3700 Spiez, BE",BE,,clean,46.6834213,7.6645304
+2023-02-10,Neubau,2.5,78,498000,"Frutigenstrasse 22, 3700 Spiez, BE",BE,,clean,46.6834213,7.6645304
+2023-02-10,Neubau,0.0,0,826000,"1803 Chardonne, VD",VD,,clean,46.477407160000006,6.82901125
+2023-02-10,Neubau,2.5,55,665000,"Rue du Port 31, 1820 Montreux, VD",VD,,clean,46.442212049999995,6.896893654157193
+2023-02-10,Neubau,4.0,168,2660000,"1093 La Conversion, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,Neubau,5.5,175,1690000,"Haldenstrasse 30, 9548 Matzingen, TG",TG,,clean,47.52650375,8.927410799999995
+2023-02-10,Neubau,4.5,130,1375000,"Route de Vallaire 2, 1024 Ecublens VD, VD",VD,,clean,46.523201549999996,6.555788761610806
+2023-02-10,Neubau,4.5,130,1375000,"Route de Vallaire 2, 1024 Ecublens VD, VD",VD,,clean,46.523201549999996,6.555788761610806
+2023-02-10,Neubau,5.5,220,1950000,"Via del Canvetto 1, 6900 Lugano, TI",TI,,clean,46.0159702,8.9548637
+2023-02-10,Neubau,2.5,57,1300000,"Via Uerts 2, 7512 Champfèr, GR",GR,,clean,46.4766832,9.8107841
+2023-02-10,Neubau,4.5,0,1122000,"Via Campagnola 22/B, 6852 Genestrerio, TI",TI,,clean,45.8548069,8.9605784
+2023-02-10,Neubau,5.5,129,1200000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,136,1140000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,136,1190000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,3.5,80,1580000,"Via Riva Paradiso, 26, 6900 Paradiso, TI",TI,,clean,unbekant,unbekannt
+2023-02-10,Neubau,2.5,78,685000,"Via al Ponte 25, 6900 Massagno, TI",TI,,clean,46.0096205,8.9439837
+2023-02-10,Neubau,5.5,156,1450000,"Via Lavizzari 18, 6900 Lugano, TI",TI,,clean,46.0067788,8.9581251
+2023-02-10,Neubau,2.5,51,565000,"Via al Lido 1, 6900 Lugano, TI",TI,,clean,45.9339018,8.9700259
+2023-02-10,Neubau,4.5,123,845000,"Via Truscio 2, 6616 Losone, TI",TI,,clean,46.1663979,8.768019
+2023-02-10,Neubau,4.5,110,1295000,"Route de Vallaire, 1024 Ecublens VD, VD",VD,,clean,46.522504,6.5548867
+2023-02-10,Neubau,3.5,95,975000,"Route de Vallaire, 1024 Ecublens VD, VD",VD,,clean,46.522504,6.5548867
+2023-02-10,Neubau,3.5,96,670000,"Brunnacher 19, 3257 Grossaffoltern, BE",BE,,clean,47.0681434,7.3662497500000015
+2023-02-10,Neubau,5.5,148,748000,"Les Grattes 6, 2019 Rochefort, NE",NE,,clean,46.9841119,6.8135777
+2023-02-10,Neubau,4.5,112,528000,"Les Grattes 6, 2019 Rochefort, NE",NE,,clean,46.9841119,6.8135777
+2023-02-10,Neubau,3.5,88,438000,"Les Grattes 6, 2019 Rochefort, NE",NE,,clean,46.9841119,6.8135777
+2023-02-10,Neubau,3.5,88,438000,"Les Grattes 6, 2019 Rochefort, NE",NE,,clean,46.9841119,6.8135777
+2023-02-10,Neubau,2.5,50,670000,"Via Montalbano 5A, 6925 Gentilino, TI",TI,,clean,45.9922537,8.9349828
+2023-02-10,Neubau,3.5,0,1100000,"Via al Lido 1, 6900 Lugano, TI",TI,,clean,45.9339018,8.9700259
+2023-02-10,Neubau,4.5,110,1295000,"Route de Vallaire, 1024 Ecublens VD, VD",VD,,clean,46.522504,6.5548867
+2023-02-10,Neubau,3.5,95,975000,"Route de Vallaire, 1024 Ecublens VD, VD",VD,,clean,46.522504,6.5548867
+2023-02-10,Neubau,4.5,130,1375000,"Route de Vallaire, 1024 Ecublens VD, VD",VD,,clean,46.522504,6.5548867
+2023-02-10,Neubau,4.5,110,1295000,"Route de Vallaire, 1024 Ecublens VD, VD",VD,,clean,46.522504,6.5548867
+2023-02-10,Neubau,3.5,110,880000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,130,780000,"Wolfkehlenstrasse 25, 8266 Steckborn, TG",TG,,clean,47.6579334,8.978489608900414
+2023-02-10,Neubau,4.5,127,1020000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,4.5,141,1240000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,118,625000,"Route de chippis 68A, 1967 Bramois, VS",VS,,clean,46.2371567,7.4037899
+2023-02-10,Neubau,3.5,108,2300000,"Seestrasse 3, 6442 Gersau, SZ",SZ,,clean,46.9915303,8.5236711
+2023-02-10,Neubau,3.5,76,610000,"Dorfstrasse 14, 8536 Hüttwilen, TG",TG,,clean,47.6108781,8.8724874
+2023-02-10,Neubau,3.5,91,690000,"Dorfstrasse 14, 8536 Hüttwilen, TG",TG,,clean,47.6108781,8.8724874
+2023-02-10,Neubau,3.5,100,975000,"Sentier du Danube 4, 1024 Ecublens VD, VD",VD,,clean,46.5240784,6.5581665
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,100,975000,"Sentier du Danube 4, 1024 Ecublens VD, VD",VD,,clean,46.5240784,6.5581665
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,0,751000,"Via Campagnola 22/B, 6852 Genestrerio, TI",TI,,clean,45.8548069,8.9605784
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,58,328000,"Les Grattes 6, 2019 Rochefort, NE",NE,,clean,46.9841119,6.8135777
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,138,1265000,"Via Orti 4, 6900 Lugano, TI",TI,,clean,46.0126703,8.9559083
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,41,420000,"Gassa da Cuoz 3, 7180 Disentis/Mustér, GR",GR,,clean,46.6959702,8.8400765
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,0,590000,"Gassa da Cuoz 3, 7180 Disentis/Mustér, GR",GR,,clean,46.6959702,8.8400765
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,72,540000,"Via Corte, 6963 Pregassona, TI",TI,,clean,46.0250489,8.9741392
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,120,890000,"Via Corte, 6963 Pregassona, TI",TI,,clean,46.0250489,8.9741392
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,72,540000,"Via Corte, 6963 Pregassona, TI",TI,,clean,46.0250489,8.9741392
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,86,690000,"Via Corte, 6963 Pregassona, TI",TI,,clean,46.0250489,8.9741392
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,72,615000,"Via Cantonale 47, 6576 Gerra (Gambarogno), TI",TI,,clean,46.1228244,8.7857489
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,108,700000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,108,700000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,108,775000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,123,1040000,"Rütiweg 2, 3072 Ostermundigen, BE",BE,,clean,46.9588264,7.5004636
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,123,1080000,"Rütiweg 2, 3072 Ostermundigen, BE",BE,,clean,46.9588264,7.5004636
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,93,1250000,"Sonnhalde, 6354 Vitznau, LU",LU,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,131,2200000,"Sonnhalde, 6354 Vitznau, LU",LU,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,71,1000000,"Sonnhalde, 6354 Vitznau, LU",LU,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,1.5,48,420000,"Rütiweg 2, 3072 Ostermundigen, BE",BE,,clean,46.9588264,7.5004636
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,113,1100000,"Rütiweg 2, 3072 Ostermundigen, BE",BE,,clean,46.9588264,7.5004636
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,75,620000,"Rütiweg 2, 3072 Ostermundigen, BE",BE,,clean,46.9588264,7.5004636
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,110,1445000,"Sonnhalde, 6354 Vitznau, LU",LU,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,104,870000,"Dorfstrasse, 8166 Niederweningen, ZH",ZH,,clean,47.5055553,8.3777203
+2023-02-10,Neubau,4.5,117,960000,"Dorfstrasse, 8166 Niederweningen, ZH",ZH,,clean,47.5055553,8.3777203
+2023-02-10,Neubau,3.5,83,0,"Rue Grenade 3, 1510 Moudon, VD",VD,,clean,46.669000499999996,6.797408509678037
+2023-02-10,Neubau,3.5,88,630000,"Dorfstrasse 14, 8536 Hüttwilen, TG",TG,,clean,47.6108781,8.8724874
+2023-02-10,Neubau,4.5,141,1490000,"Randenstrasse, 8200 Schaffhausen, SH",SH,,clean,47.6735592,8.8375388
+2023-02-10,Neubau,5.5,149,1670000,"Vordergasse 16, 8615 Wermatswil, ZH",ZH,,clean,47.3618002,8.7446389
+2023-02-10,Neubau,4.5,110,1175000,"Ruchholzstrasse 4, 4103 Bottmingen, BL",BL,,clean,47.5249894,7.5747292
+2023-02-10,Neubau,3.5,94,1150000,"Strada Cantonale 350, 7516 Maloja, GR",GR,,clean,46.4017415,9.6957793
+2023-02-10,Neubau,4.5,100,695000,"Winterthurerstrasse 16 a, 5080 Laufenburg, AG",AG,,clean,47.5616664,8.0680039
+2023-02-10,Neubau,3.5,80,575000,"Winterthurerstrasse 16a, 5080 Laufenburg, AG",AG,,clean,47.5616664,8.0680039
+2023-02-10,Neubau,5.5,139,1620000,"Friedheimstrasse 3, 8608 Bubikon, ZH",ZH,,clean,47.2755315,8.821543238932986
+2023-02-10,Neubau,4.5,110,614000,"Landweg, 9533 Kirchberg SG, SG",SG,,clean,47.4211242,9.0161274
+2023-02-10,Neubau,4.5,110,604000,"Landweg, 9533 Kirchberg SG, SG",SG,,clean,47.4211242,9.0161274
+2023-02-10,Neubau,4.5,105,594000,"Landweg, 9533 Kirchberg SG, SG",SG,,clean,47.4211242,9.0161274
+2023-02-10,Neubau,4.5,105,584000,"Landweg, 9533 Kirchberg SG, SG",SG,,clean,47.4211242,9.0161274
+2023-02-10,Neubau,3.5,105,574000,"Landweg, 9533 Kirchberg SG, SG",SG,,clean,47.4211242,9.0161274
+2023-02-10,Neubau,5.5,129,1150000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,126,1150000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,136,1190000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,129,1200000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,5.5,126,1200000,"Chemin de la Gay 1, 1803 Chardonne, VD",VD,,clean,46.4974871,6.8305348
+2023-02-10,Neubau,3.5,105,1150000,"Sous-le-Château, 2068 Hauterive NE, NE",NE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,0,1100000,"Sous-le-Château, 2068 Hauterive NE, NE",NE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,5.5,140,1300000,"Sous-le-Château, 2068 Hauterive NE, NE",NE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,2.5,64,590000,"Via Gerso, 6900 Lugano, TI",TI,,clean,46.0107843,8.9499463
+2023-02-10,Neubau,6.5,239,3665000,"Via Gerso, 6900 Lugano, TI",TI,,clean,46.0107843,8.9499463
+2023-02-10,Neubau,3.5,90,830000,"Via Gerso, 6900 Lugano, TI",TI,,clean,46.0107843,8.9499463
+2023-02-10,Neubau,4.5,126,760000,"Dorfstrasse 14, 8536 Hüttwilen, TG",TG,,clean,47.6108781,8.8724874
+2023-02-10,Neubau,6.0,250,2500000,"Wildistrasse 7, 3906 Saas-Fee, VS",VS,,clean,46.1159812,7.9324566
+2023-02-10,Neubau,2.5,39,0,"Via al Ponte 25, 6900 Massagno, TI",TI,,clean,46.0096205,8.9439837
+2023-02-10,Neubau,5.5,146,1200000,"Wüeristrasse 6, 8107 Buchs ZH, ZH",ZH,,clean,47.4521534,8.4389638
+2023-02-10,Neubau,4.5,137,615000,"Route de Montana 27, 3974 Mollens VS, VS",VS,,clean,46.3112016,7.5194054
+2023-02-10,Neubau,3.5,88,840000,"Route de la Clochatte, 1052 Le Mont-sur-Lausanne, VD",VD,,clean,46.5439462,6.6397682
+2023-02-10,Neubau,3.5,85,565000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,3.5,85,565000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,3.5,85,620000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,4.5,120,675000,"Allmend 3, 3504 Oberhünigen, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,2.5,82,585000,"Lilienweg 7, 3426 Aefligen, BE",BE,,clean,47.0935874,7.5592195
+2023-02-10,Neubau,3.5,115,1120000,"Randenstrasse, 8200 Schaffhausen, SH",SH,,clean,47.6735592,8.8375388
+2023-02-10,Neubau,4.5,131,1250000,"Randenstrasse, 8200 Schaffhausen, SH",SH,,clean,47.6735592,8.8375388
+2023-02-10,Neubau,3.5,80,595000,"Winterthurerstrasse 16 a, 5080 Laufenburg, AG",AG,,clean,47.5616664,8.0680039
+2023-02-10,Neubau,2.5,61,450000,"Route d'Essert 31, 1733 Treyvaux, FR",FR,,clean,46.7286674,7.1373445
+2023-02-10,Neubau,4.5,100,700000,"Route d'Essert 31, 1733 Treyvaux, FR",FR,,clean,46.7286674,7.1373445
+2023-02-10,Neubau,4.5,128,1490000,"Friedheimstrasse 3, 8608 Bubikon, ZH",ZH,,clean,47.2755315,8.821543238932986
+2023-02-10,Neubau,4.5,128,1390000,"Friedheimstrasse 3, 8608 Bubikon, ZH",ZH,,clean,47.2755315,8.821543238932986
+2023-02-10,Neubau,4.5,122,1230000,"Friedheimstrasse 3, 8608 Bubikon, ZH",ZH,,clean,47.2755315,8.821543238932986
+2023-02-10,Neubau,2.5,77,480000,"6582 Pianezzo, TI",TI,,clean,46.1689532,9.029512
+2023-02-10,Neubau,4.5,120,660000,"Glaubenbergstrasse 15, 6162 Entlebuch, LU",LU,,clean,46.99149505,8.066223561529416
+2023-02-10,Neubau,3.5,90,550000,"Glaubenbergstrasse 15, 6162 Entlebuch, LU",LU,,clean,46.99149505,8.066223561529416
+2023-02-10,Neubau,5.5,225,1860000,"Piazzetta San Carlo 3, 6512 Giubiasco, TI",TI,,clean,46.17434895,9.01708160951835
+2023-02-10,Neubau,3.5,107,740000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,4.0,245,1200000,"Route du Lac, 1938 Champex-Lac, VS",VS,,clean,46.0306255,7.1152511
+2023-02-10,Neubau,2.5,62,860000,"Chemin de Grésy 10, 1012 Lausanne, VD",VD,,clean,46.529485699999995,6.660582846769104
+2023-02-10,Neubau,2.5,62,860000,"Chemin de Grésy 10, 1012 Lausanne, VD",VD,,clean,46.529485699999995,6.660582846769104
+2023-02-10,Neubau,5.5,206,1270000,"via scairone, 6818 Melano, TI",TI,,clean,45.9218262,8.9831579
+2023-02-10,Neubau,4.5,126,1100000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,3.5,106,880000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,130,1100000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,3.5,106,826000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,0,785000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,166,0,"Via Guidino, 6900 Paradiso, TI",TI,,clean,45.9878578,8.9514805
+2023-02-10,Neubau,2.5,57,850000,"Route de la Clochatte, 1052 Le Mont-sur-Lausanne, VD",VD,,clean,46.5439462,6.6397682
+2023-02-10,Neubau,3.5,105,595000,"Viale 1814 9, 6512 Giubiasco, TI",TI,,clean,46.175183,9.0099165
+2023-02-10,Neubau,3.5,120,0,"Via Ligaino, 6900 Lugano, TI",TI,,clean,46.0238433,8.9743064
+2023-02-10,Neubau,2.5,67,500000,"Waagtalstrasse 32, 8842 Unteriberg, SZ",SZ,,clean,47.0562848,8.802128
+2023-02-10,Neubau,4.0,105,0,"Ch. de la Coppe, 1911 Ovronnaz, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,Neubau,2.5,57,415000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,3.5,106,785000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,2.5,57,375000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,2.5,62,425000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,3.5,106,850000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,3.5,106,826000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,141,1027000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,2.5,57,415000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,2.5,62,400000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,2.5,62,400000,"Claro, 6500 Bellinzona, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,3.5,109,1120000,"Bärenbrunnenweg 1-33, 4144 Arlesheim, BL",BL,,clean,47.4889867,7.6222216
+2023-02-10,Neubau,4.5,140,680000,"Via San Leonardo 3, 6593 Cadenazzo, TI",TI,,clean,46.142513,8.9440081
+2023-02-10,Neubau,3.5,83,500000,"1964 Conthey, VS",VS,,clean,46.22599936309077,7.304030198574645
+2023-02-10,Neubau,4.5,108,950000,"1934 Le Châble VS, VS",VS,,clean,46.0806669,7.2142758
+2023-02-10,Neubau,3.5,113,1480000,"5443 Niederrohrdorf, AG",AG,,clean,47.42411573970588,8.304662574509804
+2023-02-10,Neubau,5.0,336,7550000,"Forchstrasse, 8703 Erlenbach ZH, ZH",ZH,,clean,47.3059909,8.6032439
+2023-02-10,Neubau,5.0,222,6525000,"Forchstrasse, 8703 Erlenbach ZH, ZH",ZH,,clean,47.3059909,8.6032439
+2023-02-10,Neubau,5.0,172,3800000,"Forchstrasse, 8703 Erlenbach ZH, ZH",ZH,,clean,47.3059909,8.6032439
+2023-02-10,Neubau,5.0,182,3900000,"Forchstrasse, 8703 Erlenbach ZH, ZH",ZH,,clean,47.3059909,8.6032439
+2023-02-10,Neubau,6.5,210,1990000,"Irchelstrasse 6, 8180 Bülach, ZH",ZH,,clean,47.5297354,8.5413865
+2023-02-10,Neubau,4.5,111,710000,"Ringstrasse 4c, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,3.5,89,595000,"Ringstrasse 4e, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,5.5,127,790000,"Ringstrasse 4e, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,3.5,89,595000,"Ringstrasse 4e, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,4.5,122,736400,"Lätschenstrasse 5b, 9204 Andwil SG, SG",SG,,clean,47.4392519,9.2689233
+2023-02-10,Neubau,4.5,122,756400,"Lätschenstrasse 5b, 9204 Andwil SG, SG",SG,,clean,47.4392519,9.2689233
+2023-02-10,Neubau,6.0,200,1350000,"6850 Mendrisio, TI",TI,,clean,45.87075228964758,8.98181060198238
+2023-02-10,Neubau,2.5,68,475000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,2.5,68,495000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,2.5,68,510000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,2.5,81,730000,"Breiteackerstrasse 2, 8422 Pfungen, ZH",ZH,,clean,47.515629,8.64236600895939
+2023-02-10,Neubau,4.5,113,610000,"Breitenaustrasse, 8725 Gebertingen, SG",SG,,clean,47.2527902,9.0023863
+2023-02-10,Neubau,3.5,100,540000,"Breitenaustrasse, 8725 Gebertingen, SG",SG,,clean,47.2527902,9.0023863
+2023-02-10,Neubau,8.0,357,5000000,"1095 Lutry, VD",VD,,clean,46.50719154447495,6.68896725978037
+2023-02-10,Neubau,4.5,0,1240000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,160,0,"Via Pontif, 6622 Ronco sopra Ascona, TI",TI,,clean,46.1416602,8.7257087
+2023-02-10,Neubau,4.5,259,3650000,"Via Guidino, 6900 Paradiso, TI",TI,,clean,45.9878578,8.9514805
+2023-02-10,Neubau,3.5,135,0,"Via Guidino, 6900 Paradiso, TI",TI,,clean,45.9878578,8.9514805
+2023-02-10,Neubau,3.5,105,595000,"Viale 1814 9, 6512 Giubiasco, TI",TI,,clean,46.175183,9.0099165
+2023-02-10,Neubau,3.5,68,0,"Ch de la Coppe, 1911 Ovronnaz, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,105,0,"En Bierze, 1911 Ovronnaz, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,Neubau,3.5,110,950000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,3.5,89,595000,"Ringstrasse 4c, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,3.5,89,585000,"Ringstrasse 4e, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,3.5,89,585000,"Ringstrasse 4c, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,5.5,127,795000,"Ringstrasse 4c, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,4.5,111,695000,"Ringstrasse 4c, 8737 Gommiswald, SG",SG,,clean,47.2333754,9.0217672
+2023-02-10,Neubau,3.5,96,711000,"Tellstrasse 5, 8570 Weinfelden, TG",TG,,clean,47.5641001,9.1074798
+2023-02-10,Neubau,4.5,152,1656000,"Tellstrasse 5, 8570 Weinfelden, TG",TG,,clean,47.5641001,9.1074798
+2023-02-10,Neubau,4.5,132,800000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,4.5,145,850000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,2.5,89,665000,"via Salvioni, 6500 Bellinzona, TI",TI,,clean,unbekant,unbekannt
+2023-02-10,Neubau,2.5,59,430000,"6595 Riazzino, TI",TI,,clean,46.1769626,8.8885494
+2023-02-10,Neubau,3.5,83,790000,"Euthalerstrasse 11, 8844 Euthal, SZ",SZ,,clean,47.0933327,8.8183758
+2023-02-10,Neubau,2.5,64,418000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,103,727000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,4.5,131,782000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,102,835000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,2.5,64,380000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,2.5,74,440000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,2.5,60,356000,"1958 Uvrier, VS",VS,,clean,46.2498087,7.4164133
+2023-02-10,Neubau,3.5,72,451000,"1958 Uvrier, VS",VS,,clean,46.2498087,7.4164133
+2023-02-10,Neubau,2.5,60,372000,"1958 Uvrier, VS",VS,,clean,46.2498087,7.4164133
+2023-02-10,Neubau,3.5,102,653000,"1958 Uvrier, VS",VS,,clean,46.2498087,7.4164133
+2023-02-10,Neubau,4.5,126,829000,"1958 Uvrier, VS",VS,,clean,46.2498087,7.4164133
+2023-02-10,Neubau,3.5,72,434000,"1958 Uvrier, VS",VS,,clean,46.2498087,7.4164133
+2023-02-10,Neubau,5.5,155,1650000,"Rinikerstrasse 27, 5222 Umiken, AG",AG,,clean,47.485028650000004,8.193180895348902
+2023-02-10,Neubau,4.5,112,1020000,"Pfäffikerstrasse 116, 8605 Gutenswil, ZH",ZH,,clean,47.3849938,8.7161051
+2023-02-10,Neubau,3.5,92,810000,"Pfäffikerstrasse 116, 8605 Gutenswil, ZH",ZH,,clean,47.3849938,8.7161051
+2023-02-10,Neubau,3.5,158,1610000,"6648 Minusio, TI",TI,,clean,46.178485117469876,8.825853442771084
+2023-02-10,Neubau,3.5,108,795000,"Reitistrasse 32/34, 8322 Madetswil, ZH",ZH,,clean,47.4165318,8.7933806
+2023-02-10,Neubau,5.5,157,895000,"Stockenstrasse 11C, 9249 Algetshausen, SG",SG,,clean,47.4463932,9.108971539128458
+2023-02-10,Neubau,3.5,100,630000,"Stockenstrasse 11C, 9249 Algetshausen, SG",SG,,clean,47.4463932,9.108971539128458
+2023-02-10,Neubau,3.5,72,385000,"6206 Neuenkirch, LU",LU,,clean,47.099647965279296,8.202684158598029
+2023-02-10,Neubau,4.0,138,2900000,"Forchstrasse, 8703 Erlenbach ZH, ZH",ZH,,clean,47.3059909,8.6032439
+2023-02-10,Neubau,4.5,163,720000,"chemin Clos-du-Vernay 40, 1677 Prez-vers-Siviriez, FR",FR,,clean,46.637370849999996,6.879751151694222
+2023-02-10,Neubau,2.5,40,148000,"Winterthurerstrasse 16a, 5080 Laufenburg, AG",AG,,clean,47.5616664,8.0680039
+2023-02-10,Neubau,2.5,68,1435000,"Heizenholz 4, 8049 Zürich, ZH",ZH,,clean,47.409214500000004,8.488601229144358
+2023-02-10,Neubau,3.5,102,840000,"Bergstrasse 4, 8155 Nassenwil, ZH",ZH,,clean,47.4659717,8.4692589
+2023-02-10,Neubau,4.5,115,920000,"Bergstrasse 4, 8155 Nassenwil, ZH",ZH,,clean,47.4659717,8.4692589
+2023-02-10,Neubau,4.5,122,736400,"Lätschenstrasse 5C, 9204 Andwil SG, SG",SG,,clean,47.4392519,9.2689233
+2023-02-10,Neubau,3.5,80,875000,"1188 Gimel, VD",VD,,clean,46.5088102,6.3070695
+2023-02-10,Neubau,2.5,115,1245000,"Poststrasse 21, 8180 Bülach, ZH",ZH,,clean,47.51750645,8.538647260110189
+2023-02-10,Neubau,4.5,125,600000,"6513 Monte Carasso, TI",TI,,clean,46.1878748,8.9959091
+2023-02-10,Neubau,7.0,185,4900000,"Oberer Rütiweg 1, 8803 Rüschlikon, ZH",ZH,,clean,47.30179055,8.554676708625983
+2023-02-10,Neubau,4.5,146,1380000,"Im Lee, 5621 Zufikon, AG",AG,,clean,47.3557727,8.3561445
+2023-02-10,Neubau,3.5,115,720000,"via scairone, 6818 Melano, TI",TI,,clean,45.9218262,8.9831579
+2023-02-10,Neubau,5.5,175,0,"6442 Gersau, SZ",SZ,,clean,46.99519427277148,8.522979508589952
+2023-02-10,Neubau,3.5,102,1400000,"Chemin Isabelle de Montolieu 25, 1010 Lausanne, VD",VD,,clean,46.5453987,6.6480523
+2023-02-10,Neubau,3.5,80,1050000,"Chemin Isabelle de Montolieu 25, 1010 Lausanne, VD",VD,,clean,46.5453987,6.6480523
+2023-02-10,Neubau,3.5,100,1300000,"Chemin Isabelle de Montolieu 25, 1010 Lausanne, VD",VD,,clean,46.5453987,6.6480523
+2023-02-10,Neubau,4.5,162,1100000,"Uesslingerstrasse 1, 8532 Warth, TG",TG,,clean,47.583618900000005,8.872724018245966
+2023-02-10,Neubau,4.5,130,1790000,"Sulzbergstrasse 2a, 5430 Wettingen, AG",AG,,clean,47.4631157,8.337682942635096
+2023-02-10,Neubau,4.5,129,1790000,"Sulzbergstrasse 2a, 5430 Wettingen, AG",AG,,clean,47.4631157,8.337682942635096
+2023-02-10,Neubau,3.5,100,780000,"6807 Taverne, TI",TI,,clean,46.06070449230769,8.927237323076923
+2023-02-10,Neubau,3.5,132,1550000,"Hartriegelstrasse, 8180 Bülach, ZH",ZH,,clean,47.5195783,8.5330779
+2023-02-10,Neubau,2.5,85,530000,"Pletschgässi, 3953 Leuk Stadt, VS",VS,,clean,46.3074196,7.639459
+2023-02-10,Neubau,4.5,137,860000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,2.5,73,490000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,3.5,108,700000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,2.5,53,375000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,2.5,59,430000,"6595 Riazzino, TI",TI,,clean,46.1769626,8.8885494
+2023-02-10,Neubau,2.5,53,415000,"6595 Riazzino, TI",TI,,clean,46.1769626,8.8885494
+2023-02-10,Neubau,2.5,58,430000,"6595 Riazzino, TI",TI,,clean,46.1769626,8.8885494
+2023-02-10,Neubau,3.5,74,795000,"Rue Gambetta 18, 1820 Montreux, VD",VD,,clean,46.4404178,6.8958601
+2023-02-10,Neubau,4.5,135,1230000,"Euthalerstrasse 11, 8844 Euthal, SZ",SZ,,clean,47.0933327,8.8183758
+2023-02-10,Neubau,4.5,136,650000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,3.5,77,404000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,Neubau,3.5,104,490000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,4.5,136,630000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,3.5,74,389000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,Neubau,4.5,136,650000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,3.5,104,490000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,4.5,122,659000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,Neubau,3.5,0,950000,"Rue Ecole de Céramique 10, 1022 Chavannes-près-Renens, VD",VD,,clean,46.532332600000004,6.576025286668714
+2023-02-10,Neubau,3.5,117,1100000,"Grossfeld 23 (Haus H), 6423 Seewen SZ, SZ",SZ,,clean,unbekant,unbekannt
+2023-02-10,Neubau,5.5,249,3250000,"1009 Pully, VD",VD,,clean,46.5106757959596,6.658421527128428
+2023-02-10,Neubau,3.5,170,0,"Via Guidino, 6900 Paradiso, TI",TI,,clean,45.9878578,8.9514805
+2023-02-10,Neubau,5.5,156,1150000,"Gabelacher, 3323 Bäriswil BE, BE",BE,,clean,47.0209443,7.5279517
+2023-02-10,Neubau,5.5,142,1060000,"Gabelacher, 3323 Bäriswil BE, BE",BE,,clean,47.0209443,7.5279517
+2023-02-10,Neubau,4.5,143,600000,"Rue des Caves, 1908 Riddes, VS",VS,,clean,46.1735346,7.2193745
+2023-02-10,Neubau,4.5,148,1290000,"Gabelacher, 3323 Bäriswil BE, BE",BE,,clean,47.0209443,7.5279517
+2023-02-10,Neubau,3.5,121,890000,"Gabelacher, 3323 Bäriswil BE, BE",BE,,clean,47.0209443,7.5279517
+2023-02-10,Neubau,4.5,139,1060000,"Gabelacher, 3323 Bäriswil BE, BE",BE,,clean,47.0209443,7.5279517
+2023-02-10,Neubau,0.0,0,209000,"3954 Leukerbad, VS",VS,,clean,46.3823178,7.6275861
+2023-02-10,Neubau,4.5,138,830000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,125,780000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,138,820000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,4.5,138,840000,"6596 Gordola, TI",TI,,clean,46.18237820681818,8.859092668181818
+2023-02-10,Neubau,2.5,65,435000,"6593 Cadenazzo, TI",TI,,clean,46.151312136363636,8.945310731818182
+2023-02-10,Neubau,4.5,139,1500000,"Schiltwaldweg, 3823 Wengen, 3823 Wengen, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,122,756400,"Lätschenstrasse 5c, 9204 Andwil SG, SG",SG,,clean,47.4392519,9.2689233
+2023-02-10,Neubau,0.0,0,1552950,"6900 Massagno, TI",TI,,clean,46.0126998,8.9443667
+2023-02-10,Neubau,3.5,118,670000,"6702 Claro, TI",TI,,clean,46.2552548,9.0231951
+2023-02-10,Neubau,0.0,0,0,"Mühlegasse 25, 4303 Kaiseraugst, AG",AG,,clean,47.53937845,7.721576398702016
+2023-02-10,Neubau,3.5,85,698000,"Morthey, 1911 Ovronnaz, VS",VS,,clean,46.1970073,7.1730712
+2023-02-10,Neubau,3.5,82,2195000,"Oberer Rütiweg 1, 8803 Rüschlikon, ZH",ZH,,clean,47.30179055,8.554676708625983
+2023-02-10,Neubau,2.5,60,505000,"Via Vedeggi 21, 6983 Magliaso, TI",TI,,clean,45.9809685,8.8871822
+2023-02-10,Neubau,3.5,82,1050000,"Chemin Isabelle de Montolieu 25, 1010 Lausanne, VD",VD,,clean,46.5453987,6.6480523
+2023-02-10,Neubau,4.5,165,0,"Route des Indivis, 1987 Hérémence, VS",VS,,clean,46.182147,7.3894891
+2023-02-10,Neubau,4.5,130,990000,"6924 Sorengo, TI",TI,,clean,46.001213575,8.9368082
+2023-02-10,Neubau,4.5,200,3200000,"6926 Montagnola, TI",TI,,clean,45.9829744,8.9184373
+2023-02-10,Neubau,3.5,79,550000,"Vorstatt, 6244 Nebikon, LU",LU,,clean,47.190708,7.9735876
+2023-02-10,Neubau,4.5,119,730000,"Vorstatt, 6244 Nebikon, LU",LU,,clean,47.190708,7.9735876
+2023-02-10,Neubau,3.5,79,940000,"1024 Ecublens VD, VD",VD,,clean,46.5252246974416,6.560429149276974
+2023-02-10,Neubau,3.5,88,650000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,4.5,134,890000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,2.5,60,420000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,2.5,61,374000,"1958 Uvrier, VS",VS,,clean,46.2498087,7.4164133
+2023-02-10,Neubau,4.5,156,1395000,"Hochbordweg, 4302 Augst BL, BL",BL,,clean,47.5369168,7.7126894
+2023-02-10,Neubau,3.5,98,0,"Via Civra, 6900 Lugano, TI",TI,,clean,45.9807816,8.9241196
+2023-02-10,Neubau,5.0,147,1780000,"A Troinex, 1256 Troinex, GE",GE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.0,118,1530000,"A Troinex, 1256 Troinex, GE",GE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.0,123,1660000,"A Troinex, 1256 Troinex, GE",GE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.0,118,1470000,"A Troinex, 1256 Troinex, GE",GE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,5.0,145,1980000,"A Troinex, 1256 Troinex, GE",GE,,clean,unbekant,unbekannt
+2023-02-10,Neubau,1.5,45,350000,"3963 Crans-Montana, VS",VS,,clean,46.30872290202726,7.480706208493534
+2023-02-10,Neubau,4.5,165,2300000,"1988 Les Collons, VS",VS,,clean,46.1813445,7.3851407
+2023-02-10,Neubau,4.5,175,1390000,"Aeulistrasse 25, 7310 Bad Ragaz, SG",SG,,clean,47.012222,9.507064
+2023-02-10,Neubau,2.5,76,475000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,76,475000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,100,615000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,4.5,132,785000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,2.5,80,470000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,100,585000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,4.5,132,770000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,97,995000,"Poststrasse 21, 8180 Bülach, ZH",ZH,,clean,47.51750645,8.538647260110189
+2023-02-10,Neubau,3.5,87,945000,"Poststrasse 21, 8180 Bülach, ZH",ZH,,clean,47.51750645,8.538647260110189
+2023-02-10,Neubau,3.5,0,1300000,"1803 Chardonne, VD",VD,,clean,46.477407160000006,6.82901125
+2023-02-10,Neubau,4.5,118,720000,"Via Giuseppe Motta, 6826 Riva San Vitale, TI",TI,,clean,45.9020468,8.9706938
+2023-02-10,Neubau,4.5,118,740000,"Via Giuseppe Motta, 6826 Riva San Vitale, TI",TI,,clean,45.9020468,8.9706938
+2023-02-10,Neubau,4.5,125,760000,"Via Giuseppe Motta, 6826 Riva San Vitale, TI",TI,,clean,45.9020468,8.9706938
+2023-02-10,Neubau,4.5,118,720000,"Via Giuseppe Motta, 6826 Riva San Vitale, TI",TI,,clean,45.9020468,8.9706938
+2023-02-10,Neubau,4.5,142,535000,"2108 Couvet, NE",NE,,clean,46.9261639,6.6343244
+2023-02-10,Neubau,8.0,190,1870000,"6512 Giubiasco, TI",TI,,clean,46.1739158,9.0134077
+2023-02-10,Neubau,2.5,68,410000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,4.5,0,0,"Birchstrasse 23, 8472 Seuzach, ZH",ZH,,clean,47.5345746,8.7347644
+2023-02-10,Neubau,4.5,149,1068000,"Frutigenstrasse 22, 3700 Spiez, BE",BE,,clean,46.6834213,7.6645304
+2023-02-10,Neubau,5.5,240,1450000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,4.5,149,900000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,3.5,118,710000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,2.5,87,500000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,5.5,200,1295000,"Herrengässli 12, 3532 Zäziwil, BE",BE,,clean,46.9002388,7.6604324
+2023-02-10,Neubau,5.5,151,1080000,"Herrengässli 12, 3532 Zäziwil, BE",BE,,clean,46.9002388,7.6604324
+2023-02-10,Neubau,4.5,112,673037,"1963 Vétroz, VS",VS,,clean,46.22125818927483,7.2780605042047535
+2023-02-10,Neubau,5.5,202,1550000,"Brändlihangstrasse  10, 9442 Berneck, SG",SG,,clean,47.4139654,9.6236147
+2023-02-10,Neubau,4.0,90,990000,"1800 Vevey, VD",VD,,clean,46.46285667860215,6.847039380430107
+2023-02-10,Neubau,2.5,68,345000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,2.5,68,310000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,4.5,117,720000,"1845 Noville, VD",VD,,clean,46.38216612884616,6.902076330769231
+2023-02-10,Neubau,5.5,148,1032500,"3292 Busswil BE, BE",BE,,clean,47.0993634,7.3221402
+2023-02-10,Neubau,3.5,102,820000,"1145 Bière, VD",VD,,clean,46.53508031111111,6.3370998555555555
+2023-02-10,Neubau,3.5,96,665000,"Lilienweg 7, 3426 Aefligen, BE",BE,,clean,47.0935874,7.5592195
+2023-02-10,Neubau,3.5,95,885000,"Solistrasse 72, 8180 Bülach, ZH",ZH,,clean,47.5240822,8.537734
+2023-02-10,Neubau,4.5,116,1120000,"Solistrasse 72, 8180 Bülach, ZH",ZH,,clean,47.5240822,8.537734
+2023-02-10,Neubau,4.5,116,995000,"Solistrasse 72, 8180 Bülach, ZH",ZH,,clean,47.5240822,8.537734
+2023-02-10,Neubau,4.5,126,1395000,"Solistrasse 72, 8180 Bülach, ZH",ZH,,clean,47.5240822,8.537734
+2023-02-10,Neubau,3.5,95,967000,"Solistrasse 72, 8180 Bülach, ZH",ZH,,clean,47.5240822,8.537734
+2023-02-10,Neubau,3.5,126,185000,"6850 Mendrisio, TI",TI,,clean,45.87075228964758,8.98181060198238
+2023-02-10,Neubau,6.5,262,3490000,"1009 Pully, VD",VD,,clean,46.5106757959596,6.658421527128428
+2023-02-10,Neubau,4.5,127,895000,"6850 Mendrisio, TI",TI,,clean,45.87075228964758,8.98181060198238
+2023-02-10,Neubau,4.5,98,1020000,"1304 Cossonay-Ville, VD",VD,,clean,46.5865832,6.5437339
+2023-02-10,Neubau,3.5,0,0,"Zürichstrasse, 8606 Nänikon, ZH",ZH,,clean,47.372052,8.6923992
+2023-02-10,Neubau,2.5,61,360000,"Via Cava, 6855 Stabio, TI",TI,,clean,45.8541433,8.9408532
+2023-02-10,Neubau,3.5,101,0,"Ruchenbergweg, 7310 Bad Ragaz, SG",SG,,clean,47.0041158,9.4991084
+2023-02-10,Neubau,5.5,128,860000,"Salmsacherstrasse 15, 15a, 15b, 8590 Romanshorn, TG",TG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,3.5,102,795000,"Brändlihangstrasse  10, 9442 Berneck, SG",SG,,clean,47.4139654,9.6236147
+2023-02-10,Neubau,3.5,109,776500,"3963 Crans-Montana, VS",VS,,clean,46.30872290202726,7.480706208493534
+2023-02-10,Neubau,4.5,171,2227800,"3963 Crans-Montana, VS",VS,,clean,46.30872290202726,7.480706208493534
+2023-02-10,Neubau,4.5,171,2041800,"3963 Crans-Montana, VS",VS,,clean,46.30872290202726,7.480706208493534
+2023-02-10,Neubau,3.5,132,945000,"Brändlihangstrasse  10, 9442 Berneck, SG",SG,,clean,47.4139654,9.6236147
+2023-02-10,Neubau,3.5,95,660000,"1965 Savièse, VS",VS,,clean,46.26065187176991,7.344268719970502
+2023-02-10,Neubau,3.5,92,604000,"1965 Savièse, VS",VS,,clean,46.26065187176991,7.344268719970502
+2023-02-10,Neubau,3.5,90,589000,"1965 Savièse, VS",VS,,clean,46.26065187176991,7.344268719970502
+2023-02-10,Neubau,3.5,90,589000,"1965 Savièse, VS",VS,,clean,46.26065187176991,7.344268719970502
+2023-02-10,Neubau,3.5,95,660000,"1965 Savièse, VS",VS,,clean,46.26065187176991,7.344268719970502
+2023-02-10,Neubau,3.5,92,604000,"1965 Savièse, VS",VS,,clean,46.26065187176991,7.344268719970502
+2023-02-10,Neubau,2.5,68,325000,"1957 Ardon, VS",VS,,clean,46.20931061673077,7.259775590384616
+2023-02-10,Neubau,2.5,44,325000,"3960 Corin-de-la-Crête, VS",VS,,clean,46.285339,7.5046652
+2023-02-10,Neubau,5.5,139,950000,"Lilienweg 7, 3426 Aefligen, BE",BE,,clean,47.0935874,7.5592195
+2023-02-10,Neubau,4.5,114,825000,"Lilienweg 7, 3426 Aefligen, BE",BE,,clean,47.0935874,7.5592195
+2023-02-10,Neubau,5.5,200,2500000,"1110 Morges, VD",VD,,clean,46.5133689575054,6.495786380669546
+2023-02-10,Neubau,3.0,0,822000,"Dorfstrasse 56, 3438 Lauperswil, BE",BE,,clean,46.9752412,7.7439001
+2023-02-10,Neubau,3.5,196,3450000,"6006 Luzern, LU",LU,,clean,47.05579905178082,8.329384699863013
+2023-02-10,Neubau,3.5,86,692000,"3963 Crans-Montana, VS",VS,,clean,46.30872290202726,7.480706208493534
+2023-02-10,Neubau,5.5,110,1178000,"3963 Crans-Montana, VS",VS,,clean,46.30872290202726,7.480706208493534
+2023-02-10,Neubau,4.5,140,600000,"1584 Villars-le-Grand, VD",VD,,clean,46.9055732,6.9902145
+2023-02-10,Neubau,5.5,180,1360000,"Myrtenstrasse 8, 5737 Menziken, AG",AG,,clean,47.2417341,8.1928422
+2023-02-10,Neubau,4.5,119,740000,"1844 Villeneuve VD, VD",VD,,clean,46.39410503626943,6.926961813471502
+2023-02-10,Neubau,4.5,117,720000,"1844 Villeneuve VD, VD",VD,,clean,46.39410503626943,6.926961813471502
+2023-02-10,Neubau,2.5,48,400000,"via Peschiera, 6982 Agno, TI",TI,,clean,45.9965481,8.9032579
+2023-02-10,Neubau,3.5,90,1250000,"Matthofweg/Tramweg 8, 4144 Arlesheim, BL",BL,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,132,785000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,2.5,76,475000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,2.5,80,480000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,100,585000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,100,615000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,111,650000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,4.5,132,770000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,2.5,80,470000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,3.5,100,595000,"1926 Fully, VS",VS,,clean,46.14029517131757,7.11767097483108
+2023-02-10,Neubau,4.5,116,860000,"Wilistrasse 1, 8637 Laupen ZH, ZH",ZH,,clean,47.2632999,8.9293788
+2023-02-10,Neubau,2.5,79,560000,"Salmsacherstrasse 15, 15a, 15b, 8590 Romanshorn, TG",TG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,104,710000,"Salmsacherstrasse 15, 15a, 15b, 8590 Romanshorn, TG",TG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,3.5,0,595000,"1587 Constantine, VD",VD,,clean,46.9181932,7.0115066
+2023-02-10,Neubau,5.5,209,0,"Im Koller 26, 8706 Meilen, ZH",ZH,,clean,47.2816023,8.6160318
+2023-02-10,Neubau,5.5,180,0,"Im Koller 26, 8706 Meilen, ZH",ZH,,clean,47.2816023,8.6160318
+2023-02-10,Neubau,4.5,119,740000,"1845 Noville, VD",VD,,clean,46.38216612884616,6.902076330769231
+2023-02-10,Neubau,4.5,168,1000000,"1966 Signèse (Ayent), VS",VS,,clean,46.2574879,7.4024801
+2023-02-10,Neubau,2.5,83,415000,"1966 Signèse (Ayent), VS",VS,,clean,46.2574879,7.4024801
+2023-02-10,Neubau,3.5,87,929000,"1306 Daillens, VD",VD,,clean,46.62089221976744,6.549512348449612
+2023-02-10,Neubau,3.5,95,680000,"Sankt Gallerstrasse 152, 9320 Arbon, TG",TG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,5.5,173,1590000,"3065 Bolligen, BE",BE,,clean,46.976557675432694,7.499622682692308
+2023-02-10,Neubau,4.5,132,1850000,"Via delle Scuole 3, 6579 Piazzogna, TI",TI,,clean,46.1352588,8.8253494
+2023-02-10,Neubau,3.5,78,413000,"1994 Aproz (Nendaz), VS",VS,,clean,46.2056774,7.3123284
+2023-02-10,Neubau,4.5,161,1550000,"1820 Montreux, VD",VD,,clean,46.43113303645485,6.915871305351171
+2023-02-10,Neubau,5.0,98,1190000,"1214 Vernier, GE",GE,,clean,46.212488014074076,6.081491671111111
+2023-02-10,Neubau,4.0,112,1700000,"1253 Vandoeuvres, GE",GE,,clean,46.22259312285714,6.198321462857143
+2023-02-10,Neubau,5.5,150,880000,"Promenade Iris de Roten 1, 2800 Delémont, JU",JU,,clean,unbekant,unbekannt
+2023-02-10,Neubau,3.5,87,595000,"Route de Billens 0, 1680 Romont FR, FR",FR,,clean,46.6916946,6.9145571
+2023-02-10,Neubau,4.0,109,655000,"Via del Tiglio 18, 6592 S. Antonino, TI",TI,,clean,46.1562773,8.9787387
+2023-02-10,Neubau,2.5,64,375000,"1921 Martigny-Croix, VS",VS,,clean,46.0878076,7.0556145
+2023-02-10,Neubau,2.5,64,385000,"1921 Martigny-Croix, VS",VS,,clean,46.0878076,7.0556145
+2023-02-10,Neubau,4.5,132,1550000,"Via delle Scuole 3, 6579 Piazzogna, TI",TI,,clean,46.1352588,8.8253494
+2023-02-10,Neubau,3.5,88,620000,"Telmoos 10, 1716 Plaffeien, FR",FR,,clean,46.7372459,7.2921369
+2023-02-10,Neubau,3.5,88,600000,"Telmoos 10, 1716 Plaffeien, FR",FR,,clean,46.7372459,7.2921369
+2023-02-10,Neubau,4.5,102,900000,"1442 Montagny-près-Yverdon, VD",VD,,clean,46.79186129158249,6.614059983838384
+2023-02-10,Neubauprojekt,3.5,83,590000,"Grossmattstrasse 1, 5737 Menziken, AG",AG,,clean,unbekant,unbekannt
+2023-02-10,Neubauprojekt,5.5,155,860000,"Grossmattstrasse 1, 5737 Menziken, AG",AG,,clean,unbekant,unbekannt
+2023-02-10,Neubauprojekt,4.5,121,660000,"Grossmattstrasse 5, 5737 Menziken, AG",AG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,139,1085000,"Aachweg 1, 9323 Steinach, SG",SG,,clean,47.4917263,9.43587872
+2023-02-10,Neubau,3.5,68,570000,"Aachweg 1, 9323 Steinach, SG",SG,,clean,47.4917263,9.43587872
+2023-02-10,Neubau,4.5,112,890000,"Sankt Gallerstrasse 154, 9320 Arbon, TG",TG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,3.5,141,910000,"Propsteiweg 15, 2504 Biel/Bienne, BE",BE,,clean,47.1485949,7.267401578422154
+2023-02-10,Neubau,2.5,56,390000,"Route de Billens 0, 1680 Romont FR, FR",FR,,clean,46.6916946,6.9145571
+2023-02-10,Neubau,5.5,226,1440000,"Propsteiweg 15, 2504 Biel/Bienne, BE",BE,,clean,47.1485949,7.267401578422154
+2023-02-10,Neubau,2.5,72,645000,"Rhihaldenstrasse 10, 8193 Eglisau, ZH",ZH,,clean,47.5720387,8.5242113
+2023-02-10,Neubau,3.5,78,723000,"Rhihaldenstrasse 14, 8193 Eglisau, ZH",ZH,,clean,47.5720387,8.5242113
+2023-02-10,Neubau,3.5,81,748000,"Rhihaldenstrasse 14, 8193 Eglisau, ZH",ZH,,clean,47.5720387,8.5242113
+2023-02-10,Neubau,3.5,94,1222000,"Grampenweg 29, 8180 Bülach, ZH",ZH,,clean,47.5168349,8.535016696550846
+2023-02-10,Neubau,4.5,128,1130000,"Chemin de Prameiraz 2, 1997 Haute-Nendaz, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,116,990000,"Sankt Gallerstrasse 156, 9320 Arbon, TG",TG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,116,990000,"Sankt Gallerstrasse 154, 9320 Arbon, TG",TG,,clean,unbekant,unbekannt
+2023-02-10,Neubau,5.5,123,575000,"Longues Royes, 2854 Bassecourt, JU",JU,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,105,515000,"2854 Bassecourt, JU",JU,,clean,47.33103021230769,7.2308091892307695
+2023-02-10,Neubau,2.5,62,310000,"2854 Bassecourt, JU",JU,,clean,47.33103021230769,7.2308091892307695
+2023-02-10,Neubau,4.5,114,795000,"Jungfraustrasse 7, 3613 Steffisburg, BE",BE,,clean,46.7714965,7.611676839119468
+2023-02-10,Neubau,2.5,0,727000,"Dorfstrasse 56, 3438 Lauperswil, BE",BE,,clean,46.9752412,7.7439001
+2023-02-10,Neubau,5.0,0,820000,"Dorfstrasse 56, 3438 Lauperswil, BE",BE,,clean,46.9752412,7.7439001
+2023-02-10,Neubau,4.5,169,0,"Landstrasse 9, 8868 Oberurnen, GL",GL,,clean,47.118362649999995,9.059426395657264
+2023-02-10,Neubau,4.5,117,845000,"Trottenackerstrasse, 8458 Dorf, ZH",ZH,,clean,47.5706401,8.6443167
+2023-02-10,Neubau,3.5,101,715000,"Trottenackerstrasse, 8458 Dorf, ZH",ZH,,clean,47.5706401,8.6443167
+2023-02-10,Neubau,5.5,132,925000,"Trottenackerstrasse, 8458 Dorf, ZH",ZH,,clean,47.5706401,8.6443167
+2023-02-10,Neubau,4.5,105,505000,"2854 Bassecourt, JU",JU,,clean,47.33103021230769,7.2308091892307695
+2023-02-10,Neubau,3.5,83,420000,"2854 Bassecourt, JU",JU,,clean,47.33103021230769,7.2308091892307695
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,100,495000,"2854 Bassecourt, JU",JU,,clean,47.33103021230769,7.2308091892307695
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,74,380000,"2854 Bassecourt, JU",JU,,clean,47.33103021230769,7.2308091892307695
+2023-02-10,serp_responsive#badge_new_building_lite,4.0,128,785000,"Via Riale, 6533 Lumino, TI",TI,,clean,46.2304223,9.0671421
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,79,410000,"Via Riale, 6533 Lumino, TI",TI,,clean,46.2304223,9.0671421
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,60,383000,"Via Riale, 6533 Lumino, TI",TI,,clean,46.2304223,9.0671421
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,140,830000,"Myrtenstrasse 6, 5737 Menziken, AG",AG,,clean,47.2417341,8.1928422
+2023-02-10,serp_responsive#badge_new_building_lite,4.0,0,1307250,"1255 Veyrier, GE",GE,,clean,46.167908511538464,6.176158796153846
+2023-02-10,serp_responsive#badge_new_building_lite,3.0,0,1000040,"1255 Veyrier, GE",GE,,clean,46.167908511538464,6.176158796153846
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,86,1165000,"Amselstrasse 9, 4123 Allschwil, BL",BL,,clean,47.5526935,7.5578076
+2023-02-10,serp_responsive#badge_new_building_lite,8.0,487,5600000,"1095 Lutry, VD",VD,,clean,46.50719154447495,6.68896725978037
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,126,755000,"1737 Plasselb, FR",FR,,clean,46.734195630487804,7.251798066341463
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,115,715000,"1737 Plasselb, FR",FR,,clean,46.734195630487804,7.251798066341463
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,145,800000,"1737 Plasselb, FR",FR,,clean,46.734195630487804,7.251798066341463
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,156,2700000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,118,1500000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,122,1450000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,134,1790000,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,serp_responsive#badge_new_building_lite,3.0,0,834150,"1255 Veyrier, GE",GE,,clean,46.167908511538464,6.176158796153846
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,137,1300000,"1988 Thyon, VS",VS,,clean,46.1811635,7.3717252
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,153,912730,"1965 Savièse, VS",VS,,clean,46.26065187176991,7.344268719970502
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,139,760000,"6652 Tegna, TI",TI,,clean,46.1865051,8.7431483
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,82,595000,"Jesuitenweg 163, 3900 Brig, VS",VS,,clean,46.3127546,7.9757681
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,102,780000,"Bernstrasse 96, 3363 Oberönz, BE",BE,,clean,47.18025085,7.69555095
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,51,395000,"Bernstrasse 96, 3363 Oberönz, BE",BE,,clean,47.18025085,7.69555095
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,117,1320000,"Talweg 3, 8610 Uster, ZH",ZH,,clean,47.34535175,8.731927814989195
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,121,1390000,"Talweg 3, 8610 Uster, ZH",ZH,,clean,47.34535175,8.731927814989195
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,125,560000,"Via Sottobisio 17B, 6828 Balerna, TI",TI,,clean,45.8435966,9.0072495
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,0,620000,"Via Retica, 6532 Castione, TI",TI,,clean,46.2260828,9.045933
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,194,2300000,"6612 Ascona, TI",TI,,clean,46.155420525,8.769132019
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,76,0,"Schafmattweg 104, 4102 Binningen, BL",BL,,clean,47.534794,7.5719528
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,50,355000,"Schulhausgässli 1, 3535 Schüpbach, BE",BE,,clean,46.928363000000004,7.737354395422539
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,180,2600000,"Rue du village 13, 1874 Champéry, VS",VS,,clean,46.1771655,6.8686893
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,134,1095000,"Ischenstrasse 7, 6376 Emmetten, NW",NW,,clean,46.954999,8.5064859
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,100,520000,"Schulhausgässli 1, 3535 Schüpbach, BE",BE,,clean,46.928363000000004,7.737354395422539
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,139,686700,"Route de Bramois 50, 1967 Bramois, VS",VS,,clean,46.2291811,7.4014961
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,84,377220,"Rue du Simplon 28, 1907 Saxon, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,82,680000,"1820 Montreux, VD",VD,,clean,46.43113303645485,6.915871305351171
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,126,2175000,"Immenweg 23, 8050 Zürich, ZH",ZH,,clean,47.4095637,8.530379450000002
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,92,1645000,"Immenweg 23, 8050 Zürich, ZH",ZH,,clean,47.4095637,8.530379450000002
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,100,1050000,"9032 Engelburg, SG",SG,,clean,47.4387453,9.3481584
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,131,1160000,"Jesuitenweg 163, 3900 Brig, VS",VS,,clean,46.3127546,7.9757681
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,132,950000,"6616 Losone, TI",TI,,clean,46.17067066129032,8.755903236774195
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,171,1680000,"Via Cosliva 23, 6926 Montagnola, TI",TI,,clean,45.986937,8.9125675
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,110,995000,"Flüestrasse 34, 5313 Klingnau, AG",AG,,clean,47.5794837,8.2569683
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,71,380000,"Rte de Lentigny 10, 1741 Cottens FR, FR",FR,,clean,46.7556562,7.0265251
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,200,4500000,"1095 Lutry, VD",VD,,clean,46.50719154447495,6.68896725978037
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,73,417000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,78,419000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,3.5,78,419000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,4.5,95,504000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,2.5,58,356000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,2.5,58,356000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,2.5,55,339000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,5.5,122,735000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,4.5,95,504000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,3.5,82,458000,"Rue Edouard-Dubied 13, 2108 Couvet, NE",NE,,clean,46.9279977,6.6350779
+2023-02-10,Neubau,4.5,132,1250000,"6612 Ascona, TI",TI,,clean,46.155420525,8.769132019
+2023-02-10,Neubau,2.5,55,470000,"6612 Ascona, TI",TI,,clean,46.155420525,8.769132019
+2023-02-10,Neubau,3.5,104,780000,"8725 Gebertingen, SG",SG,,clean,47.253547,9.0060472
+2023-02-10,Neubau,3.5,116,890000,"9032 Engelburg, SG",SG,,clean,47.4387453,9.3481584
+2023-02-10,Neubau,3.5,113,1015000,"Jesuitenweg 165, 3900 Brig, VS",VS,,clean,46.3127546,7.9757681
+2023-02-10,Neubau,3.5,0,440000,"Bifang, 3472 Wynigen, BE",BE,,clean,47.104732,7.6662905
+2023-02-10,Neubau,4.5,213,1090000,"Via Muschnas, 7186 Segnas, GR",GR,,clean,46.6949372,8.83174
+2023-02-10,Neubau,3.5,108,710000,"Via Muschnas, 7186 Segnas, GR",GR,,clean,46.6949372,8.83174
+2023-02-10,Neubau,2.5,115,790000,"Via Muschnas, 7186 Segnas, GR",GR,,clean,46.6949372,8.83174
+2023-02-10,Neubau,3.5,142,910000,"Via Muschnas, 7186 Segnas, GR",GR,,clean,46.6949372,8.83174
+2023-02-10,Neubau,1.5,61,555000,"Via Cosliva 23, 6926 Montagnola, TI",TI,,clean,45.986937,8.9125675
+2023-02-10,Neubau,4.5,112,694400,"Chemin d'Arche 30, 1870 Monthey, VS",VS,,clean,46.260273600000005,6.955176749999998
+2023-02-10,Neubau,4.5,112,678720,"Chemin d'Arche 30, 1870 Monthey, VS",VS,,clean,46.260273600000005,6.955176749999998
+2023-02-10,Neubau,2.5,49,357000,"Rte de l'Ecole 5, 1725 Posieux, FR",FR,,clean,46.7638961,7.0926655
+2023-02-10,Neubau,4.0,0,1950000,"Route de Sous-Moulin 6, 1200 Genève, GE",GE,,clean,46.193173200000004,6.192451833380673
+2023-02-10,Neubau,5.5,248,775000,"Zürichstrasse 3c, 4922 Bützberg, BE",BE,,clean,47.2167137,7.7519433
+2023-02-10,Neubau,4.5,0,0,"Im Wölfli, 8240 Thayngen, SH",SH,,clean,47.7478591,8.7174607
+2023-02-10,Neubauprojekt,3.5,93,795000,"Balatrain 13, 7304 Maienfeld, GR",GR,,clean,47.0051917,9.5315718
+2023-02-10,Neubauprojekt,3.5,93,985000,"Balatrain 25, 7304 Maienfeld, GR",GR,,clean,47.0051917,9.5315718
+2023-02-10,Neubauprojekt,4.5,118,1005000,"Balatrain 13, 7304 Maienfeld, GR",GR,,clean,47.0051917,9.5315718
+2023-02-10,Neubauprojekt,4.5,120,1235000,"Balatrain 21, 7304 Maienfeld, GR",GR,,clean,47.0051917,9.5315718
+2023-02-10,Neubau,5.5,134,999000,"Ischenstrasse 7, 6376 Emmetten, NW",NW,,clean,46.954999,8.5064859
+2023-02-10,Neubau,3.5,97,710000,"5070 Frick, AG",AG,,clean,47.5069317306914,8.021244800758854
+2023-02-10,Neubau,5.5,128,950000,"5070 Frick, AG",AG,,clean,47.5069317306914,8.021244800758854
+2023-02-10,Neubau,4.5,105,800000,"5070 Frick, AG",AG,,clean,47.5069317306914,8.021244800758854
+2023-02-10,Neubau,5.5,180,1360000,"Myrtenstrasse 8, 5737 Menziken, AG",AG,,clean,47.2417341,8.1928422
+2023-02-10,Neubau,5.0,0,1590000,"1290 Versoix, GE",GE,,clean,46.29619018952381,6.150902112380952
+2023-02-10,Neubau,5.0,139,2030000,"1212 Grand-Lancy, GE",GE,,clean,46.1758901,6.1226129
+2023-02-10,Neubau,3.5,106,775000,"6500 Bellinzona, TI",TI,,clean,46.1933488,9.0261483
+2023-02-10,Neubau,5.5,0,730000,"Zum Höhenweg, 3900 Brigerbad, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,Neubau,2.5,73,378000,"Via del Tiglio, 6592 S. Antonino, TI",TI,,clean,46.1562773,8.9787387
+2023-02-10,Neubau,5.0,156,1750800,"Route de Grand-Combe 105, 3961 Grimentz, VS",VS,,clean,46.1816531,7.573974
+2023-02-10,Neubau,2.5,86,469000,"Viale Serfontana, 6834 Morbio Inferiore, TI",TI,,clean,45.8457091,9.0166515
+2023-02-10,Neubau,4.5,129,1290000,"Via Trisnera, 6616 Losone, TI",TI,,clean,46.171419,8.7597047
+2023-02-10,Neubau,4.5,119,990000,"Via Trisnera, 6616 Losone, TI",TI,,clean,46.171419,8.7597047
+2023-02-10,Neubau,3.5,118,620000,"Chemin de la Piantséta, 1731 Ependes FR, FR",FR,,clean,46.7600209,7.1549238
+2023-02-10,Neubau,4.0,142,790000,"Chemin de la Piantséta, 1731 Ependes FR, FR",FR,,clean,46.7600209,7.1549238
+2023-02-10,Neubau,3.5,118,620000,"Chemin de la Piantséta, 1731 Ependes FR, FR",FR,,clean,46.7600209,7.1549238
+2023-02-10,Neubau,4.0,142,790000,"Chemin de la Piantséta, 1731 Ependes FR, FR",FR,,clean,46.7600209,7.1549238
+2023-02-10,Neubau,2.5,82,650000,"6648 Minusio, TI",TI,,clean,46.178485117469876,8.825853442771084
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,153,1610000,"6648 Minusio, TI",TI,,clean,46.178485117469876,8.825853442771084
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,180,1430000,"1987 Hérémence, VS",VS,,clean,46.162748057509994,7.395490420788121
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,57,430000,"6595 Riazzino, TI",TI,,clean,46.1769626,8.8885494
+2023-02-10,serp_responsive#badge_new_building_lite,1.5,27,184000,"3967 Vercorin, VS",VS,,clean,46.2571655,7.530704
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,98,685000,"Stationsrain 3, 5102 Rupperswil, AG",AG,,clean,47.404147449999996,8.127256608945963
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,105,830000,"6982 Agno, TI",TI,,clean,45.99990177692308,8.902451184615384
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,105,450000,"Le Bourg 39, 2950 Courgenay, JU",JU,,clean,47.4027828,7.125286635634951
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,131,1630000,"Neuchâtel, 2000 Neuchâtel, NE",NE,,clean,46.9965783,6.9358276
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,200,995000,"6828 Balerna, TI",TI,,clean,45.84489249278351,9.00925825257732
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,0,0,"Route de la Maladière, 1022 Chavannes-près-Renens, VD",VD,,clean,46.5276623,6.5741528
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,0,0,"6490 Andermatt, UR",UR,,clean,46.63447942013274,8.595159083407081
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,157,0,"9463 Oberriet SG, SG",SG,,clean,47.321538828783,9.560775784095298
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,141,0,"9463 Oberriet SG, SG",SG,,clean,47.321538828783,9.560775784095298
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,121,655000,"Chemin des Grands-Prés 2, 1896 Vouvry, VS",VS,,clean,46.3327874,6.890409275023913
+2023-02-10,serp_responsive#badge_new_building_lite,1.0,42,445000,"1032 Romanel-sur-Lausanne, VD",VD,,clean,46.56374744740406,6.603710535440181
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,99,860000,"1032 Romanel-sur-Lausanne, VD",VD,,clean,46.56374744740406,6.603710535440181
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,99,860000,"1032 Romanel-sur-Lausanne, VD",VD,,clean,46.56374744740406,6.603710535440181
+2023-02-10,serp_responsive#badge_new_building,4.5,113,745000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,102,560000,"Pré Pury, 1749 Middes, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,2.5,40,245000,"Pré Pury, 1749 Middes, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,1.0,60,313000,"Pré Pury, 1749 Middes, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,102,570000,"Pré Pury, 1749 Middes, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,102,560000,"Pré Pury, 1749 Middes, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,Neubau,4.5,122,735000,"Pré Pury, 1749 Middes, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,Neubau,3.5,102,550000,"Pré Pury, 1749 Middes, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,Neubau,1.0,40,495000,"Dans les hauteurs de Bourg-en-Lavaux, 1091 Grandvaux, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,Neubauprojekt,4.5,127,832000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,3.5,77,649000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,3.5,98,870000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,3.5,116,1020000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,130,1060000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,109,820000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,131,1100000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,3.5,111,880000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,3.5,108,930000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,5.5,146,926000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,118,990000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,3.5,113,955000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,125,908000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,3.5,116,865000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,121,820000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,109,925000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,5.5,159,985000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,137,820000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,146,960000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubauprojekt,4.5,114,860000,"Schwendetalstrasse, 9057 Schwende, AI",AI,,clean,47.2869715,9.4296722
+2023-02-10,Neubau,2.0,65,650100,"Grand Combe 105, 3961 Grimentz, VS",VS,,clean,46.1816531,7.573974
+2023-02-10,serp_responsive#badge_new_building_lite,0.0,0,0,"Römerpark / Weidenweg, 4303 Kaiseraugst, AG",AG,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,103,840000,"6982 Agno, TI",TI,,clean,45.99990177692308,8.902451184615384
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,118,730000,"1148 Villars-Bozon, VD",VD,,clean,46.6074559,6.4063577
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,123,765000,"1148 Villars-Bozon, VD",VD,,clean,46.6074559,6.4063577
+2023-02-10,unbekannt,4.0,90,1100000,"Elfenauweg, 3006 Bern, BE",BE,,clean,46.9393579,7.4696343
+2023-02-10,unbekannt,3.5,74,565000,"Bollmoosweg 12, 5610 Wohlen AG, AG",AG,,clean,47.3462211,8.2741247
+2023-02-10,unbekannt,3.5,90,1890000,"Krähbühlstrasse 57, 8044 Zürich, ZH",ZH,,clean,47.3788855,8.565951817118108
+2023-02-10,unbekannt,1.5,32,397000,"Avenue de Chillon 49, 1820 Veytaux, VD",VD,,clean,46.4149361,6.9282788
+2023-02-10,unbekannt,3.5,104,980000,"Binzhofstrasse 89, 8404 Winterthur, ZH",ZH,,clean,47.51920015,8.75153845
+2023-02-10,unbekannt,3.5,108,1390000,"Sulzbacherstrasse 18, 8610 Uster, ZH",ZH,,clean,47.33956515,8.728337890937645
+2023-02-10,unbekannt,4.5,73,635000,"Bellikerstrasse 16, 8964 Rudolfstetten, AG",AG,,clean,47.36386545,8.36689775
+2023-02-10,unbekannt,4.5,111,650000,"Tannenweg 17, 3073 Gümligen, BE",BE,,clean,46.93784355,7.495863886022613
+2023-02-10,unbekannt,6.5,176,0,"Segantinistrasse 174, 8049 Zürich, ZH",ZH,,clean,47.4082056,8.491383850753063
+2023-02-10,unbekannt,6.5,181,0,"Segantinistrasse 174, 8049 Zürich, ZH",ZH,,clean,47.4082056,8.491383850753063
+2023-02-10,unbekannt,1.5,31,780000,"Promendade, 7270 Davos Platz, GR",GR,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,63,1450000,"Promenade, 7270 Davos Platz, GR",GR,,clean,46.7986932,9.8239244
+2023-02-10,unbekannt,4.5,116,1190000,"Rappenmööslistrasse 30, 8840 Einsiedeln, SZ",SZ,,clean,47.12125455,8.73889875
+2023-02-10,unbekannt,3.5,130,790000,"Via Tarì Cippo 5, 6944 Cureglia, TI",TI,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,110,0,"Sprengimatt 5, 6020 Emmenbrücke, LU",LU,,clean,47.07989645,8.272385380386494
+2023-02-10,unbekannt,6.0,180,1285000,"Route du Château d'Affry, 1762 Givisiez, FR",FR,,clean,46.811964,7.1285702
+2023-02-10,unbekannt,4.5,104,0,"Agertiweg 19, 3812 Wilderswil, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,92,588000,"Sonnenstrasse 15B, 3953 Leuk Stadt, VS",VS,,clean,46.3196425,7.6317464
+2023-02-10,unbekannt,4.5,130,1185000,"Ch. du Péage, 25, 1807 Blonay, VD",VD,,clean,46.4755119,6.8926262
+2023-02-10,unbekannt,3.5,96,975000,"Chemin de la Dôle 22, 1196 Gland, VD",VD,,clean,46.421864049999996,6.262849801747954
+2023-02-10,unbekannt,4.5,116,1250000,"Pargherastrasse 28, 7000 Chur, GR",GR,,clean,46.8458172,9.512968
+2023-02-10,unbekannt,4.5,153,1280000,"1273 Arzier-Le Muids, VD",VD,,clean,46.46059103636364,6.201572190909091
+2023-02-10,unbekannt,3.5,91,640000,"Chemin des Perrières 34, 2072 St-Blaise, NE",NE,,clean,47.0147911,6.979913
+2023-02-10,unbekannt,4.0,175,1099000,"Seetalstrasse 54, 5703 Seon, AG",AG,,clean,47.3434647,8.1603349
+2023-02-10,unbekannt,5.5,225,1980000,"1096 Villette (Lavaux), VD",VD,,clean,46.506132,6.71286797151454
+2023-02-10,Neubau,4.5,112,725000,"Weidweg 7, 9470 Buchs SG, SG",SG,,clean,47.1453372,9.4862493
+2023-02-10,unbekannt,4.5,149,1180000,"Wislistrasse 3a, 9442 Berneck, SG",SG,,clean,47.42456635,9.6176231
+2023-02-10,unbekannt,4.5,95,790000,"1315 La Sarraz, VD",VD,,clean,46.65788095833333,6.51319335
+2023-02-10,unbekannt,2.5,70,0,"1196 Gland, VD",VD,,clean,46.42023974764031,6.27160490867347
+2023-02-10,unbekannt,4.5,154,1698000,"Stiegweg 16c, 8303 Bassersdorf, ZH",ZH,,clean,47.4431725,8.632493549434333
+2023-02-10,unbekannt,3.5,77,895000,"1004 Lausanne, VD",VD,,clean,46.526928928431374,6.619507637745098
+2023-02-10,unbekannt,5.5,186,2100000,"Rüslerstrasse 35, 5452 Oberrohrdorf, AG",AG,,clean,47.4291666,8.3145991
+2023-02-10,unbekannt,1.0,50,249000,"1964 Conthey, VS",VS,,clean,46.22599936309077,7.304030198574645
+2023-02-10,unbekannt,4.5,144,760000,"Bleike 19, 3911 Ried-Brig, VS",VS,,clean,46.3053198,8.010525
+2023-02-10,unbekannt,5.5,181,1274000,"Bleike 19, 3911 Ried-Brig, VS",VS,,clean,46.3053198,8.010525
+2023-02-10,unbekannt,5.5,111,630000,"rue centrale 4, 1964 Conthey, VS",VS,,clean,46.230014,7.3037939
+2023-02-10,Neubau,4.5,92,630000,"Vordergasse 8, 3858 Hofstetten b. Brienz, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,5.0,157,1820000,"Ludwigstrasse 4, 9010 St. Gallen, SG",SG,,clean,47.43941355,9.377472799999996
+2023-02-10,unbekannt,5.5,127,0,"Hinterdorfstrasse 31, 6235 Winikon, LU",LU,,clean,47.2358164,8.0458448
+2023-02-10,unbekannt,4.5,116,1640000,"Föhneneichstrasse 31, 6440 Brunnen, SZ",SZ,,clean,46.99838575,8.602530073860773
+2023-02-10,unbekannt,3.5,79,490000,"Route de France 19, 1875 Morgins, VS",VS,,clean,46.23643255,6.85414430197125
+2023-02-10,unbekannt,3.5,145,725000,"Kirchstrasse 10b, 9604 Lütisburg, SG",SG,,clean,47.3956367,9.0794814
+2023-02-10,unbekannt,4.5,123,595000,"Schulstrasse 3B, 3296 Arch, BE",BE,,clean,47.1654583,7.42865795
+2023-02-10,unbekannt,4.5,113,665000,"1510 Moudon, VD",VD,,clean,46.66896008970874,6.798109851262136
+2023-02-10,unbekannt,4.5,120,0,"Viale Monte Verità 27C, 6612 Ascona, TI",TI,,clean,46.15908725,8.771068599999998
+2023-02-10,unbekannt,3.5,92,470000,"Baslerstrasse 116, 4632 Trimbach, SO",SO,,clean,47.3627329,7.8966473
+2023-02-10,unbekannt,2.5,56,298000,"1955 St-Pierre-de-Clages, VS",VS,,clean,46.1920795,7.23703
+2023-02-10,unbekannt,4.5,100,840000,"Aarauerstrasse 7, 5023 Biberstein, AG",AG,,clean,47.4128228,8.0753092
+2023-02-10,unbekannt,4.5,108,0,"Oberdorfstrasse 5, 4806 Wikon, LU",LU,,clean,47.2623974,7.9716917
+2023-02-10,unbekannt,3.5,105,1190000,"8882 Unterterzen, SG",SG,,clean,47.1139539,9.2522904
+2023-02-10,unbekannt,4.5,133,990000,"9400 Rorschach, SG",SG,,clean,47.47596134588086,9.49376825937896
+2023-02-10,unbekannt,4.5,125,0,"Dorfstrasse 19, 9479 Malans SG, SG",SG,,clean,47.0911964,9.4769145
+2023-02-10,unbekannt,4.5,93,778000,"Route de l'Abbaye 26, 1168 Villars-sous-Yens, VD",VD,,clean,46.5117074,6.4290206
+2023-02-10,unbekannt,4.5,110,675000,"Fontanasson1A, 1338 Ballaigues, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,117,915000,"Neuchlensteig 5, 9200 Gossau SG, SG",SG,,clean,47.4157296,9.2749584
+2023-02-10,unbekannt,2.5,66,0,"Amthausgasse 23, 4242 Laufen, BL",BL,,clean,47.423263950000006,7.501529598589837
+2023-02-10,unbekannt,3.5,95,963000,"Dorfstrasse 43, 8630 Rüti ZH, ZH",ZH,,clean,47.26025935,8.853168961451981
+2023-02-10,unbekannt,4.5,132,915000,"1680 Romont FR, FR",FR,,clean,46.6906366248,6.9162857760000005
+2023-02-10,unbekannt,3.5,110,670000,"Route de la Part-Dieu 16, 1630 Bulle, FR",FR,,clean,46.6111152,7.0353998
+2023-02-10,unbekannt,4.5,132,862000,"1680 Romont FR, FR",FR,,clean,46.6906366248,6.9162857760000005
+2023-02-10,unbekannt,4.5,133,795000,"1680 Romont FR, FR",FR,,clean,46.6906366248,6.9162857760000005
+2023-02-10,unbekannt,4.0,105,780000,"Maihölzlistrasse 3, 5621 Zufikon, AG",AG,,clean,47.3442814,8.3565124
+2023-02-10,unbekannt,4.5,170,1595000,"Spinnereistrasse 6, 5210 Windisch, AG",AG,,clean,47.4818438,8.231568127394688
+2023-02-10,unbekannt,3.5,95,990000,"Bergkapellweg 6, 8180 Bülach, ZH",ZH,,clean,47.5180723,8.544357941174233
+2023-02-10,unbekannt,4.5,148,872000,"Lindenrain 10 & 12, 5745 Safenwil, AG",AG,,clean,47.3204773,7.9874023
+2023-02-10,unbekannt,3.5,83,270000,"Rue des Primevères 6, 2400 Le Locle, NE",NE,,clean,47.0525205,6.75041865
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,116,830000,"Mühlematten 4, 4455 Zunzgen, BL",BL,,clean,47.4461873,7.8098003
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,101,695000,"Mühlematten 4, 4455 Zunzgen, BL",BL,,clean,47.4461873,7.8098003
+2023-02-10,unbekannt,4.5,140,1490000,"Centre ville, 1170 Aubonne, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,5.5,150,1846000,"Urdorferstrasse 7, 8142 Uitikon Waldegg, ZH",ZH,,clean,47.3708807,8.450850308034324
+2023-02-10,unbekannt,5.5,127,750000,"Centre du village, 1273 Arzier-Le Muids, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,131,1340000,"Centre village, 1182 Gilly, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,110,995000,"1865 Les Diablerets, VD",VD,,clean,46.3511021,7.1566435
+2023-02-10,serp_responsive#badge_new_building_lite,3.0,95,750000,"Via Pree 8, 6900 Lugano, TI",TI,,clean,45.9593602,8.9209865
+2023-02-10,unbekannt,3.5,82,495000,"Dorfstrasse 10, 8374 Dussnang, TG",TG,,clean,47.4293029,8.9703107
+2023-02-10,unbekannt,3.5,90,615000,"Bellacherstrasse 16, 2545 Selzach, SO",SO,,clean,47.2042005,7.4577862
+2023-02-10,unbekannt,4.0,106,675000,"Luzernstrasse 31, 4554 Etziken, SO",SO,,clean,47.1877744,7.64533765
+2023-02-10,unbekannt,3.5,70,450000,"Talackerstrasse 19, 3604 Thun, BE",BE,,clean,46.74609565,7.623089097889652
+2023-02-10,unbekannt,3.5,75,470000,"Weiherstrasse 7, 8737 Gommiswald, SG",SG,,clean,47.23132675,9.025607791490902
+2023-02-10,unbekannt,2.5,62,660000,"1026 Echandens, VD",VD,,clean,46.53168050952381,6.5420211126984125
+2023-02-10,unbekannt,4.5,84,950000,"1121 Bremblens, VD",VD,,clean,46.54746572,6.5171323
+2023-02-10,unbekannt,6.5,159,1050000,"5630 Muri AG, AG",AG,,clean,47.27170086511025,8.341699105317769
+2023-02-10,unbekannt,5.5,152,1050000,"Eichenstrasse 9, 6203 Sempach Station, LU",LU,,clean,47.1155208,8.197448644552301
+2023-02-10,unbekannt,3.5,63,0,"Allmendstrasse 32, 4460 Gelterkinden, BL",BL,,clean,47.4652775,7.8517946
+2023-02-10,unbekannt,4.5,193,1240000,"Bachserstrasse 17, 8162 Steinmaur, ZH",ZH,,clean,47.5041831,8.4545216
+2023-02-10,unbekannt,2.5,60,370000,"Wasgenring 92, 4055 Basel, BS",BS,,clean,47.5601721,7.5643207
+2023-02-10,unbekannt,4.5,122,750000,"Schmittenhof 22, 6142 Gettnau, LU",LU,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,100,650000,"Schmittenhof 24, 6142 Gettnau, LU",LU,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,97,920000,"Bellevuestrasse 12, 3600 Thun, BE",BE,,clean,46.754293000000004,7.636999412837845
+2023-02-10,unbekannt,4.5,123,1215000,"Giessenstrasse 4, 7310 Bad Ragaz, SG",SG,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,154,1386000,"Solothurnstrasse 45, 3322 Urtenen-Schönbühl, BE",BE,,clean,47.02619645,7.501250953454843
+2023-02-10,unbekannt,4.0,105,999999,"Rue Hermann-Geiger 9, 1950 Sion, VS",VS,,clean,46.2250506,7.3371984
+2023-02-10,unbekannt,5.5,160,2400000,"Reussblick 7a, 6331 Hünenberg, ZG",ZG,,clean,47.1786702,8.4212874
+2023-02-10,Neubau,4.5,126,745000,"Pappelweg, 4805 Brittnau, AG",AG,,clean,47.2627513,7.9510366
+2023-02-10,unbekannt,5.5,163,425000,"Grands Prés 7, 2854 Bassecourt, JU",JU,,clean,47.3386749,7.2413092
+2023-02-10,unbekannt,3.5,107,0,"Bernhardswiesweg 3, 9014 St. Gallen, SG",SG,,clean,47.4088726,9.34305283818674
+2023-02-10,unbekannt,2.5,70,510000,"Chemin de la coula 50, 1618 Châtel-St-Denis, FR",FR,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,5.5,153,890000,"3960 Sierre, VS",VS,,clean,46.29183980754392,7.530003431588012
+2023-02-10,unbekannt,5.5,110,0,"Buonaserstrasse 28a, 6343 Rotkreuz, ZG",ZG,,clean,47.14058385,8.434865460926217
+2023-02-10,unbekannt,4.5,110,725000,"Hochhausstrasse 4, 9472 Grabs, SG",SG,,clean,47.1763718,9.4485853
+2023-02-10,unbekannt,5.5,130,1020000,"Route de Boussens 1A, 1042 Bettens, VD",VD,,clean,46.6189942,6.5782643
+2023-02-10,unbekannt,3.5,91,515000,"Sturzeneggstrasse 14, 9015 St. Gallen, SG",SG,,clean,47.404037200000005,9.313638076260718
+2023-02-10,unbekannt,5.5,120,450000,"Route de la Jonchère 13, 2208 Les Hauts-Geneveys, NE",NE,,clean,47.0461662,6.8759838
+2023-02-10,unbekannt,5.5,155,420000,"Rue des Champs 11, 2300 La Chaux-de-Fonds, NE",NE,,clean,47.092258150000006,6.821555003790538
+2023-02-10,unbekannt,3.5,0,890000,"Chemin de la Fauvette 24, 1012 Lausanne, VD",VD,,clean,46.52628595,6.655329699999996
+2023-02-10,unbekannt,4.5,144,2230000,"Höhenweg 24, 5035 Unterentfelden, AG",AG,,clean,47.3738488,8.042029120152499
+2023-02-10,unbekannt,2.5,43,230000,"Chemin de la Collure 13, 1854 Leysin, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,6.5,250,1690000,"Obere Gwanne, 3713 Reichenbach im Kandertal, BE",BE,,clean,46.6301496,7.7010121
+2023-02-10,unbekannt,3.5,119,620000,"1869 Massongex, VS",VS,,clean,46.23261148521739,6.984269430434783
+2023-02-10,unbekannt,4.0,100,520000,"Im Gässli 8, 4314 Zeiningen, AG",AG,,clean,47.54026545,7.873676630806315
+2023-02-10,unbekannt,3.5,91,622000,"Bahnhofstrasse 10, 5034 Suhr, AG",AG,,clean,47.3710382,8.08065445550146
+2023-02-10,unbekannt,5.5,106,825000,"Viale alle Cantine 4, 6850 Mendrisio, TI",TI,,clean,45.8809827,8.9857911
+2023-02-10,unbekannt,3.5,96,860000,"Wahlackerstrasse 3, 3052 Zollikofen, BE",BE,,clean,46.992900750000004,7.455799591642751
+2023-02-10,unbekannt,4.5,0,760000,"Alpenstrasse 1, 3627 Heimberg, BE",BE,,clean,46.7918522,7.60209695
+2023-02-10,unbekannt,4.0,137,492000,"Les Cornes-Morel 4, 2300 La Chaux-de-Fonds, NE",NE,,clean,47.105588749999995,6.8376649962782405
+2023-02-10,unbekannt,0.0,0,0,"2024 St-Aubin-Sauges, NE",NE,,clean,46.895154681818184,6.774102881818181
+2023-02-10,unbekannt,4.5,144,1965000,"Weichselmattstrasse 10, 4103 Bottmingen, BL",BL,,clean,47.5228367,7.57552108670213
+2023-02-10,unbekannt,4.5,133,715000,"5 avenue de la vignette 1522 Lucens, 1000 Lausanne, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,Neubau,3.5,75,745000,"Rue du Port 31, 1820 Montreux, VD",VD,,clean,46.442212049999995,6.896893654157193
+2023-02-10,unbekannt,2.5,103,635000,"Bürenstrasse 17, 3298 Oberwil b. Büren, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,0,390000,"Rue Hermann-Geiger 17, 1950 Sion, VS",VS,,clean,46.224551,7.3379729
+2023-02-10,unbekannt,4.5,110,0,"Brühlstrasse 127, 4500 Solothurn, SO",SO,,clean,47.20532095,7.514655875
+2023-02-10,unbekannt,5.5,155,550000,"Rue des Champs 11, 2300 La Chaux-de-Fonds, NE",NE,,clean,47.092258150000006,6.821555003790538
+2023-02-10,unbekannt,5.5,150,860000,"Grabackerstrasse 23, 8722 Kaltbrunn, SG",SG,,clean,47.215393899999995,9.010150452827416
+2023-02-10,unbekannt,4.0,130,3990000,"Via Tinus, 7500 St. Moritz, GR",GR,,clean,46.4991571,9.8402744
+2023-02-10,unbekannt,3.5,90,463000,"1962 Pont-de-la-Morge (Sion), VS",VS,,clean,46.22340415,7.314515558792857
+2023-02-10,unbekannt,5.5,175,1790000,"8560 Märstetten, TG",TG,,clean,47.58779882980133,9.06494132847682
+2023-02-10,unbekannt,5.5,150,810000,"Benknerstrasse 11, 8722 Kaltbrunn, SG",SG,,clean,47.2114861,9.025162970561292
+2023-02-10,unbekannt,3.5,70,415000,"Alte Landstrasse 10, 4657 Dulliken, SO",SO,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,0,668000,"via carlo pasta, 6850 Mendrisio, TI",TI,,clean,45.8731907,8.9868934
+2023-02-10,unbekannt,3.5,157,650000,"Chemin de la Petite-Charrière 16, 1666 Grandvillard, FR",FR,,clean,46.5406538,7.0864613
+2023-02-10,unbekannt,4.5,119,830000,"Bündtstrasse 23, 5615 Fahrwangen, AG",AG,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,2.5,65,495000,"Schlattgasse 76, 8716 Schmerikon, SG",SG,,clean,47.2291009,8.955846323427673
+2023-02-10,unbekannt,2.5,55,330000,"Rue de la Bonne-Eau 14, 1623 Semsales, FR",FR,,clean,46.5732461,6.9298928
+2023-02-10,unbekannt,5.0,106,2000000,"1292 Chambésy, GE",GE,,clean,46.24338443209746,6.140993433262712
+2023-02-10,unbekannt,3.5,97,720000,"Alice Vogt-Strasse 11, 4226 Breitenbach, SO",SO,,clean,47.406766399999995,7.5460333401201
+2023-02-10,unbekannt,5.5,160,1410000,"9034 Eggersriet, SG",SG,,clean,47.44184964042146,9.46851296130268
+2023-02-10,unbekannt,3.5,79,623000,"Allmendstrasse 8, 3210 Kerzers, FR",FR,,clean,46.971623050000005,7.1917220749999995
+2023-02-10,unbekannt,4.5,97,590000,"Espiweg 25, 8260 Stein am Rhein, SH",SH,,clean,47.65811975,8.855808494747981
+2023-02-10,unbekannt,4.5,120,885000,"3000 Bern, BE",BE,,clean,46.9482713,7.4514512
+2023-02-10,unbekannt,4.5,100,1600000,"undere Waldmattenstrasse 8, 3778 Schönried, BE",BE,,clean,46.503652599999995,7.296039366743953
+2023-02-10,unbekannt,4.5,117,560000,"Gillhofstrasse 2, 8554 Bonau, TG",TG,,clean,47.5877408,9.0522141
+2023-02-10,unbekannt,5.5,178,695000,"Gillhofstrasse 2, 8554 Bonau, TG",TG,,clean,47.5877408,9.0522141
+2023-02-10,unbekannt,4.5,117,530000,"Gillhofstrasse 2, 8554 Bonau, TG",TG,,clean,47.5877408,9.0522141
+2023-02-10,unbekannt,5.5,135,775000,"Saphirweg 6, 4552 Derendingen, SO",SO,,clean,47.19126575,7.589472844711617
+2023-02-10,unbekannt,3.5,125,1048000,"Chemin du Château 2, 1796 Courgevaux, FR",FR,,clean,46.905924,7.1124624
+2023-02-10,unbekannt,3.5,105,480000,"Route de Sion 30B, 1974 Arbaz, VS",VS,,clean,46.2714302,7.3818575
+2023-02-10,unbekannt,3.5,79,0,"Bifang 8, 8757 Filzbach, GL",GL,,clean,47.12046495,9.12272520567488
+2023-02-10,unbekannt,4.5,108,795000,"Landstrasse 111, 5415 Nussbaumen AG, AG",AG,,clean,47.48793045,8.287499563838981
+2023-02-10,unbekannt,4.0,96,0,"Chemin des biolles, 1032 Romanel-sur-Lausanne, VD",VD,,clean,46.5642013,6.6068731
+2023-02-10,unbekannt,4.5,125,1540000,"Blauenweg 3, 4107 Ettingen, BL",BL,,clean,47.4816432,7.5457799
+2023-02-10,unbekannt,4.5,140,0,"Vispastrasse 158, 3920 Zermatt, VS",VS,,clean,46.0279101,7.7547465
+2023-02-10,unbekannt,3.5,75,1999999,"Voa Tgiern seura 17, 7077 Valbella, GR",GR,,clean,46.752323,9.5462318
+2023-02-10,unbekannt,4.5,110,697000,"5242 Lupfig, AG",AG,,clean,47.43862111748252,8.202797886013986
+2023-02-10,unbekannt,4.5,106,580000,"Bielstrasse 17, 3252 Worben, BE",BE,,clean,47.1047918,7.2957314580058235
+2023-02-10,unbekannt,3.5,72,780000,"Via Baraggie 39, 6612 Ascona, TI",TI,,clean,46.15878635,8.773679900000001
+2023-02-10,Neubau,0.0,0,880000,"Stationsstrasse 11C, 3628 Uttigen, BE",BE,,clean,46.7943569,7.5761201
+2023-02-10,unbekannt,4.5,92,590000,"Feldeggstrasse 38, 3322 Urtenen-Schönbühl, BE",BE,,clean,47.01781725,7.50900285
+2023-02-10,unbekannt,4.5,100,525000,"Schulstrasse 303, 5326 Schwaderloch, AG",AG,,clean,47.5860332,8.1416985
+2023-02-10,unbekannt,4.5,85,550000,"Chalet Rustika, 3925 Grächen, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.0,132,1500000,"Chemin de l'Argilière, 1234 Vessy, GE",GE,,clean,46.1750384,6.1551643
+2023-02-10,unbekannt,4.5,112,685000,"Oberdorfstrasse 1, 9506 Lommis, TG",TG,,clean,47.5169668,8.996701191511935
+2023-02-10,unbekannt,4.5,96,475000,"Zimmerberg 18, 8222 Beringen, SH",SH,,clean,47.7023687,8.5744363
+2023-02-10,unbekannt,8.5,325,2280000,"Steinerstrasse 34, 6430 Schwyz, SZ",SZ,,clean,47.027078599999996,8.642520499080453
+2023-02-10,unbekannt,4.5,101,690000,"8580 Amriswil, TG",TG,,clean,47.5516419,9.299608279932547
+2023-02-10,unbekannt,8.0,160,659000,"Lachen 765, 9428 Walzenhausen, AR",AR,,clean,47.4428484,9.5834201
+2023-02-10,unbekannt,4.5,92,540000,"Hasenmattstrasse 4, 4500 Solothurn, SO",SO,,clean,47.2160205,7.5176424
+2023-02-10,unbekannt,4.5,118,1440000,"Hohlweg 4, 4104 Oberwil BL, BL",BL,,clean,47.513168300000004,7.551582504740363
+2023-02-10,unbekannt,5.5,170,2680000,"Hohlweg 4, 4104 Oberwil BL, BL",BL,,clean,47.513168300000004,7.551582504740363
+2023-02-10,unbekannt,4.5,122,1550000,"Hohlweg 4, 4104 Oberwil BL, BL",BL,,clean,47.513168300000004,7.551582504740363
+2023-02-10,unbekannt,4.5,124,1580000,"Hohlweg 4, 4104 Oberwil BL, BL",BL,,clean,47.513168300000004,7.551582504740363
+2023-02-10,unbekannt,5.5,141,1735000,"Hohlweg 4, 4104 Oberwil BL, BL",BL,,clean,47.513168300000004,7.551582504740363
+2023-02-10,unbekannt,4.5,123,1590000,"Hohlweg 4, 4104 Oberwil BL, BL",BL,,clean,47.513168300000004,7.551582504740363
+2023-02-10,unbekannt,5.5,132,795000,"Nieschbergstrasse 35, 9100 Herisau, AR",AR,,clean,47.3732244,9.2788711
+2023-02-10,unbekannt,4.5,117,616371,"Rue des Prumus, 1994 Aproz (Nendaz), VS",VS,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,98,472448,"Rue du Prumus, 1994 Aproz (Nendaz), VS",VS,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,103,735000,"Zelglistrasse 3, 8344 Bäretswil, ZH",ZH,,clean,47.33770125,8.847064549912451
+2023-02-10,unbekannt,6.5,153,1130000,"Sandweg 9, 5102 Rupperswil, AG",AG,,clean,47.40087645,8.132943597165212
+2023-02-10,unbekannt,3.5,90,535000,"Jurastrasse 8, 5442 Fislisbach, AG",AG,,clean,47.4398444,8.291227751423207
+2023-02-10,unbekannt,4.5,0,535000,"Hauptstrasse 53, 2572 Sutz, BE",BE,,clean,47.097686800000005,7.215420458050433
+2023-02-10,unbekannt,2.5,60,294686,"Rue du Prumus, 1994 Aproz (Nendaz), VS",VS,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,2.5,59,650000,"Sulzbergerstrasse 5, 4410 Liestal, BL",BL,,clean,47.4855673,7.738960987882338
+2023-02-10,unbekannt,2.0,47,348000,"Birkenweg 38, 3072 Ostermundigen, BE",BE,,clean,46.9473033,7.4860153
+2023-02-10,unbekannt,3.5,70,680000,"Sulzbergerstrasse 5, 4410 Liestal, BL",BL,,clean,47.4855673,7.738960987882338
+2023-02-10,unbekannt,4.5,120,588600,"Bachwegen 23, 8739 Rieden SG, SG",SG,,clean,47.2222386,9.04744548072848
+2023-02-10,unbekannt,3.5,79,850000,"Sulzbergerstrasse 5, 4410 Liestal, BL",BL,,clean,47.4855673,7.738960987882338
+2023-02-10,unbekannt,5.5,124,1150000,"Sulzbergerstrasse 5, 4410 Liestal, BL",BL,,clean,47.4855673,7.738960987882338
+2023-02-10,unbekannt,5.5,139,1300000,"Sulzbergerstrasse 5, 4410 Liestal, BL",BL,,clean,47.4855673,7.738960987882338
+2023-02-10,unbekannt,2.5,100,620000,"Bernstrasse 26, 3125 Toffen, BE",BE,,clean,46.86281005,7.4904780364728385
+2023-02-10,unbekannt,4.5,120,1080000,"Burghaldenstrasse 6, 3653 Oberhofen am Thunersee, BE",BE,,clean,46.732978900000006,7.66956675567827
+2023-02-10,unbekannt,4.0,91,1450000,"1207 Genève, GE",GE,,clean,46.20184036097561,6.158518636585366
+2023-02-10,unbekannt,5.5,125,1090000,"1630 Bulle, FR",FR,,clean,46.6190401035117,7.055492788795987
+2023-02-10,unbekannt,3.5,126,1099000,"Oberer Burghaldenweg 4a, 4410 Liestal, BL",BL,,clean,47.4922813,7.730409
+2023-02-10,unbekannt,4.5,108,970000,"Kilchmattstrasse, 18, 4132 Muttenz, BL",BL,,clean,47.5262208,7.6597055
+2023-02-10,unbekannt,2.5,62,455000,"Chappelistrasse 10, 3718 Kandersteg, BE",BE,,clean,46.49474685,7.6756804
+2023-02-10,unbekannt,4.5,112,725000,"Säntisstrasse 29, 8580 Amriswil, TG",TG,,clean,47.54739295,9.307448749999999
+2023-02-10,unbekannt,5.5,169,1395000,"Säntisstrasse 29, 8580 Amriswil, TG",TG,,clean,47.54739295,9.307448749999999
+2023-02-10,unbekannt,3.5,105,1120000,"Route de Buchillon 6F, 1162 St-Prex, VD",VD,,clean,46.47613,6.44493615694277
+2023-02-10,unbekannt,2.5,58,459000,"Sagiweg 5, 4457 Diegten, BL",BL,,clean,47.4050733,7.810323
+2023-02-10,unbekannt,5.0,138,1290000,"Bärenmatte 6, 3110 Münsingen, BE",BE,,clean,46.8789422,7.562622849999993
+2023-02-10,unbekannt,8.0,234,2750000,"Via Bertaro Lambertenghi 2, 6900 Lugano, TI",TI,,clean,46.0087105,8.9575497
+2023-02-10,Neubau,3.5,106,850000,"Via Franco Zorzi 4, 6900 Paradiso, TI",TI,,clean,45.9913457,8.9433785
+2023-02-10,unbekannt,4.5,126,890000,"Tobelacherweg 4, 5622 Waltenschwil, AG",AG,,clean,47.3300664,8.2841514
+2023-02-10,unbekannt,5.5,124,890000,"Friedaustrasse 2, 9000 St. Gallen, SG",SG,,clean,47.42963165,9.390224259699147
+2023-02-10,unbekannt,2.5,65,469000,"Via Carlo Pasta 11A, 6850 Mendrisio, TI",TI,,clean,45.8731907,8.9868934
+2023-02-10,unbekannt,2.5,57,450000,"Weinbergstrasse 10, 8212 Neuhausen am Rheinfall, SH",SH,,clean,47.679878,8.6188514
+2023-02-10,unbekannt,1.5,41,405000,"Weinbergstrasse 10, 8212 Neuhausen am Rheinfall, SH",SH,,clean,47.679878,8.6188514
+2023-02-10,unbekannt,6.0,138,1520000,"1816 Chailly-Montreux, VD",VD,,clean,46.454379,6.8923334
+2023-02-10,unbekannt,4.5,145,0,"Turnerstrasse 33, 9000 St. Gallen, SG",SG,,clean,47.4175882,9.354001951755894
+2023-02-10,unbekannt,3.5,75,890000,"Spitalstrasse 42, 8952 Schlieren, ZH",ZH,,clean,47.39457545,8.428113144753087
+2023-02-10,unbekannt,2.5,60,385000,"Strada di Pregassona 44 B, 6963 Pregassona, TI",TI,,clean,46.01768,8.9724012
+2023-02-10,unbekannt,3.5,65,399000,"Heuwinkelstrasse 18, 4123 Allschwil, BL",BL,,clean,47.5576673,7.5576408
+2023-02-10,unbekannt,4.5,115,845000,"Galligässchen 9, 4663 Aarburg, AG",AG,,clean,47.3174799,7.8995376
+2023-02-10,unbekannt,6.5,155,0,"Giacomettistrasse 16, 3006 Bern, BE",BE,,clean,46.9449698,7.4736897
+2023-02-10,unbekannt,4.0,103,1450000,"1228 Plan-les-Ouates, GE",GE,,clean,46.16661250372341,6.113644487234042
+2023-02-10,unbekannt,3.5,93,930000,"Seetalstrasse 145, 6032 Emmen, LU",LU,,clean,47.0830586,8.308365156881136
+2023-02-10,unbekannt,1.5,38,320000,"Rue de Morat 59, 1700 Fribourg, FR",FR,,clean,46.8076207,7.1595477
+2023-02-10,unbekannt,3.5,89,565000,"Schaubhus 11, 6020 Emmenbrücke, LU",LU,,clean,47.0844599,8.276371721304674
+2023-02-10,unbekannt,5.5,144,1080000,"HOFMATTWEG 3, 5712 Beinwil am See, AG",AG,,clean,47.2640235,8.202929633719126
+2023-02-10,unbekannt,2.0,36,580000,"Schwalbenweg 20A, 3012 Bern, BE",BE,,clean,46.9559657,7.4250554
+2023-02-10,unbekannt,3.5,69,395000,"Wingertlistrasse 15, 8405 Winterthur, ZH",ZH,,clean,47.4899698,8.761303900479735
+2023-02-10,unbekannt,2.5,83,740000,"Seuzachstrasse 5, 8413 Neftenbach, ZH",ZH,,clean,47.5290085,8.668877586189888
+2023-02-10,unbekannt,5.5,197,1790000,"Unterdorfstrasse 29, 9443 Widnau, SG",SG,,clean,47.409422500000005,9.634641917457813
+2023-02-10,unbekannt,4.5,122,895000,"Unterdorfstrasse 29, 9443 Widnau, SG",SG,,clean,47.409422500000005,9.634641917457813
+2023-02-10,unbekannt,4.5,134,1270000,"Stampfstrasse 27, 8645 Jona, SG",SG,,clean,47.2254328,8.8449964
+2023-02-10,unbekannt,4.5,110,1175000,"Ruchholzstrasse 4, 4103 Bottmingen, BL",BL,,clean,47.5249894,7.5747292
+2023-02-10,Neubau,3.5,102,520000,"Rue Hermann Geiger, 1950 Sion, VS",VS,,clean,46.2242643,7.3379495
+2023-02-10,unbekannt,3.5,125,1450000,"Via Vitg dadens 10B, 7152 Sagogn, GR",GR,,clean,46.7896524,9.2525567
+2023-02-10,unbekannt,3.5,120,1870000,"8050 Zürich, ZH",ZH,,clean,47.4109288602,8.55357798556
+2023-02-10,unbekannt,2.5,60,1170000,"8050 Zürich, ZH",ZH,,clean,47.4109288602,8.55357798556
+2023-02-10,unbekannt,4.0,75,750000,"Route de la Délège 4, 3963 Crans-Montana, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,100,599000,"Myrtenstrasse 6, 5737 Menziken, AG",AG,,clean,47.2417341,8.1928422
+2023-02-10,unbekannt,4.5,129,1690000,"Bellevueweg 7, 6210 Sursee, LU",LU,,clean,47.1695928,8.1196123
+2023-02-10,unbekannt,3.5,117,695000,"Rebmattweg 1, 5234 Villigen, AG",AG,,clean,47.5289252,8.2147832
+2023-02-10,unbekannt,4.5,131,760000,"Rebmattweg 1, 5234 Villigen, AG",AG,,clean,47.5289252,8.2147832
+2023-02-10,unbekannt,4.5,0,0,"Avenue de Chamonix 3B, 1207 Genève, GE",GE,,clean,46.2000857,6.1636387
+2023-02-10,unbekannt,3.5,108,605000,"Oberdorf 9, 6166 Hasle LU, LU",LU,,clean,46.9805541,8.055228453652969
+2023-02-10,unbekannt,5.5,153,940000,"Kirchfeld, 6162 Entlebuch, LU",LU,,clean,46.9901976,8.0642535
+2023-02-10,unbekannt,3.5,87,660000,"Fliederstrasse 10, 9200 Gossau SG, SG",SG,,clean,47.4170634,9.243189020466207
+2023-02-10,unbekannt,7.0,160,1940000,"1233 Bernex, GE",GE,,clean,46.17624609268293,6.078136917073171
+2023-02-10,unbekannt,5.5,162,0,"Unterdorfstrasse 7, 3322 Urtenen-Schönbühl, BE",BE,,clean,47.0269839,7.5036087
+2023-02-10,unbekannt,4.5,122,810000,"Feld 1, 3427 Utzenstorf, BE",BE,,clean,47.14232440000001,7.556042449999996
+2023-02-10,unbekannt,4.5,100,535000,"Rue de l'Orée-du-Bois 13, 2300 La Chaux-de-Fonds, NE",NE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.0,66,890000,"Chemin de Sous le Clos 2, 1232 Confignon, GE",GE,,clean,46.17775825,6.080290116721237
+2023-02-10,unbekannt,3.0,66,990000,"Chemin de Sous le Clos 2, 1232 Confignon, GE",GE,,clean,46.17775825,6.080290116721237
+2023-02-10,unbekannt,4.0,97,1350000,"Chemin de Sous le Clos 2, 1232 Confignon, GE",GE,,clean,46.17775825,6.080290116721237
+2023-02-10,unbekannt,4.0,97,1500000,"Chemin de Sous le Clos 2, 1232 Confignon, GE",GE,,clean,46.17775825,6.080290116721237
+2023-02-10,unbekannt,3.0,66,990000,"Chemin de Sous le Clos 2, 1232 Confignon, GE",GE,,clean,46.17775825,6.080290116721237
+2023-02-10,unbekannt,2.5,73,770000,"Chemin de la Cure 12, 1092 Belmont-sur-Lausanne, VD",VD,,clean,46.5197451,6.6804218
+2023-02-10,unbekannt,4.5,112,755000,"Säntisstrasse 29, 8580 Amriswil, TG",TG,,clean,47.54739295,9.307448749999999
+2023-02-10,unbekannt,4.5,95,850000,"Rue d'Orbe 56, 1400 Yverdon-les-Bains, VD",VD,,clean,46.7791184,6.6313552
+2023-02-10,unbekannt,3.5,93,775000,"Rue d'Orbe 56, 1400 Yverdon-les-Bains, VD",VD,,clean,46.7791184,6.6313552
+2023-02-10,unbekannt,3.5,104,655000,"Bürenstrasse 17, 3298 Oberwil b. Büren, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,0.0,0,0,"Multenrain 10, 5037 Muhen, AG",AG,,clean,47.3389298,8.054403355111814
+2023-02-10,unbekannt,5.5,160,0,"3900 Brig, VS",VS,,clean,46.316806478125,7.993347036160715
+2023-02-10,unbekannt,4.5,133,860000,"Hinterhostattstrasse 5, 6376 Emmetten, NW",NW,,clean,46.9555948,8.515214943873174
+2023-02-10,unbekannt,3.5,104,520000,"Chemin de la Chapelle, 1950 Sion, VS",VS,,clean,46.2119284,7.3589687
+2023-02-10,unbekannt,3.5,112,0,"Eintrachstrasse 7, 8820 Wädenswil, ZH",ZH,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,174,1980000,"Klusweg 1, 7250 Klosters, GR",GR,,clean,46.8789367,9.880220431628327
+2023-02-10,unbekannt,4.5,140,1090000,"Steigrütiweg 9, 9620 Lichtensteig, SG",SG,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,115,995000,"Hanfgarten 3, 5415 Nussbaumen AG, AG",AG,,clean,47.4863014,8.2934519
+2023-02-10,unbekannt,4.5,161,940000,"Tobelacherweg 4, 5622 Waltenschwil, AG",AG,,clean,47.3300664,8.2841514
+2023-02-10,unbekannt,6.5,157,990000,"1072 Forel (Lavaux), VD",VD,,clean,46.5397096077551,6.766857488163265
+2023-02-10,unbekannt,0.0,0,1690000,"Chemin de la Viane, 1052 Le Mont-sur-Lausanne, VD",VD,,clean,46.5614405,6.6271739
+2023-02-10,unbekannt,4.0,95,0,"Maulbeerweg 5, 4512 Bellach, SO",SO,,clean,47.213088299999995,7.494041387380193
+2023-02-10,unbekannt,3.5,88,1545000,"Promenade 95, 7270 Davos Platz, GR",GR,,clean,46.8014794,9.8299586
+2023-02-10,unbekannt,4.0,110,540000,"Zenhäusernstrasse 1, 3902 Glis, VS",VS,,clean,46.3104497,7.9900413
+2023-02-10,unbekannt,3.5,113,595000,"Chemin du Pont de la Roua 7, 1957 Ardon, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,131,685000,"Chemin du Pont de la Roua 7, 1957 Ardon, VS",VS,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,1.0,32,263000,"Kräyigenweg 93, 3074 Muri b. Bern, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,1.0,32,263000,"Kräyigenweg 93, 3074 Muri b. Bern, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,117,792000,"Kreuzlingerstrasse 53a, 8590 Romanshorn, TG",TG,,clean,47.5683326,9.3664471
+2023-02-10,unbekannt,4.5,153,976000,"Kreuzlingerstrasse 53a, 8590 Romanshorn, TG",TG,,clean,47.5683326,9.3664471
+2023-02-10,unbekannt,4.5,124,695000,"1913 Saillon, VS",VS,,clean,46.17023792862454,7.18633697091078
+2023-02-10,unbekannt,2.5,70,395000,"1913 Saillon, VS",VS,,clean,46.17023792862454,7.18633697091078
+2023-02-10,unbekannt,4.5,143,795000,"1913 Saillon, VS",VS,,clean,46.17023792862454,7.18633697091078
+2023-02-10,unbekannt,3.5,107,548000,"1913 Saillon, VS",VS,,clean,46.17023792862454,7.18633697091078
+2023-02-10,unbekannt,3.5,69,680000,"Av. de la Rochelle 39, 1008 Prilly, VD",VD,,clean,46.5341535,6.601174784406214
+2023-02-10,unbekannt,4.5,97,1260000,"Av. de la Rochelle 39, 1008 Prilly, VD",VD,,clean,46.5341535,6.601174784406214
+2023-02-10,unbekannt,4.5,143,1100000,"8400 Winterthur, ZH",ZH,,clean,47.50009201552511,8.727584357420092
+2023-02-10,unbekannt,4.5,105,690000,"4402 Frenkendorf, BL",BL,,clean,47.502557294999995,7.713643885
+2023-02-10,unbekannt,3.5,130,995000,"Via Camara 39, 6932 Breganzona, TI",TI,,clean,46.0163338,8.9343493
+2023-02-10,unbekannt,5.5,161,1720000,"Muttenstrasse 33, 5712 Beinwil am See, AG",AG,,clean,47.2682641,8.2074999
+2023-02-10,unbekannt,5.5,153,1500000,"Hohlenweg 2, 3072 Ostermundigen, BE",BE,,clean,46.9594001,7.5046076
+2023-02-10,unbekannt,3.0,93,775000,"Route de Sur-les Riaux 44, 1660 Château-d'Oex, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,90,959000,"Oberer Burghaldenweg 4b, 4410 Liestal, BL",BL,,clean,47.4922813,7.730409
+2023-02-10,unbekannt,4.5,124,950000,"Solothurnstrasse 45, 3322 Urtenen-Schönbühl, BE",BE,,clean,47.02619645,7.501250953454843
+2023-02-10,unbekannt,0.0,0,0,"Steinmattstrasse 70, 3920 Zermatt, VS",VS,,clean,46.0173037,7.7483046
+2023-02-10,unbekannt,4.5,144,660000,"Stockmattweg 7, 3296 Arch, BE",BE,,clean,47.1621749,7.4257341
+2023-02-10,unbekannt,4.5,92,665000,"Hofackerstrasse 4, 5073 Gipf-Oberfrick, AG",AG,,clean,47.492724100000004,7.996494546465112
+2023-02-10,unbekannt,4.5,133,918800,"4417 Ziefen, BL",BL,,clean,47.428478288461534,7.7003406865384605
+2023-02-10,unbekannt,2.5,94,890000,"Bergwelt 1, 3818 Grindelwald, BE",BE,,clean,46.624019849999996,8.039773558972524
+2023-02-10,unbekannt,3.5,109,695000,"Im Stadtwald 3, 9400 Rorschach, SG",SG,,clean,47.47519995,9.48525575
+2023-02-10,unbekannt,4.5,147,795000,"Krümmigasse / Moosstrasse, 6221 Rickenbach LU, LU",LU,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,94,719100,"Kennelwiesstrasse 22, 8427 Freienstein, ZH",ZH,,clean,47.52919085,8.588063274046606
+2023-02-10,unbekannt,2.5,81,623700,"Kennelwiesstrasse 22, 8427 Freienstein, ZH",ZH,,clean,47.52919085,8.588063274046606
+2023-02-10,Neubau,4.5,172,835000,"Ringstrasse 1, 3362 Niederönz, BE",BE,,clean,47.1884181,7.6970034
+2023-02-10,unbekannt,5.5,160,2080000,"Chemin de Ballallaz 22, 1820 Montreux, VD",VD,,clean,46.436082150000004,6.913383749999996
+2023-02-10,unbekannt,3.5,94,765000,"Normannenweg 24, 3232 Ins, BE",BE,,clean,47.000484,7.1038672
+2023-02-10,Neubau,3.5,0,434900,"Chemin du Milieu 81, 1920 Martigny, VS",VS,,clean,46.1125776,7.0639931
+2023-02-10,unbekannt,6.5,192,1360000,"Rue des Plantées 8, 2023 Gorgier, NE",NE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,6.0,285,567400,"Rue des fougères 27, 1964 Conthey, VS",VS,,clean,46.2183435,7.3030783
+2023-02-10,unbekannt,4.5,120,675000,"5737 Menziken, AG",AG,,clean,47.23988013632501,8.190131229474243
+2023-02-10,unbekannt,5.5,174,3160000,"Eschenring 14, 6300 Zug, ZG",ZG,,clean,47.18276745,8.518902002828842
+2023-02-10,unbekannt,5.5,140,2175000,"Tuchmacherstrasse 76, 8041 Zürich, ZH",ZH,,clean,47.337567199999995,8.520438141140776
+2023-02-10,unbekannt,4.5,114,840000,"Sportstrasse 8/8a, 9200 Gossau SG, SG",SG,,clean,47.4110593,9.2538214
+2023-02-10,unbekannt,0.0,0,309000,"45.848554, 9.013788, 6834 Morbio Inferiore, TI",TI,,clean,45.8530469,9.016289
+2023-02-10,unbekannt,1.0,25,195000,"Route des Mayens, 3963 Crans-Montana, VS",VS,,clean,46.337513,7.5358054
+2023-02-10,unbekannt,4.5,120,1250000,"Avenue du Château, 1008 Prilly, VD",VD,,clean,46.5429539,6.600924
+2023-02-10,unbekannt,4.5,154,1295000,"Solothurnerstrasse 45, 3322 Urtenen-Schönbühl, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,3.5,110,1005000,"1865 Les Diablerets, VD",VD,,clean,46.3511021,7.1566435
+2023-02-10,unbekannt,0.0,0,0,"Schmiedgasse 5, 6182 Escholzmatt, LU",LU,,clean,46.9141953,7.933224303022385
+2023-02-10,Neubauprojekt,4.5,107,620000,"Kanalstrasse 26 b, 8575 Bürglen TG, TG",TG,,clean,47.5445109,9.158089
+2023-02-10,unbekannt,4.5,120,1350000,"Avenue du Château, 1008 Prilly, VD",VD,,clean,46.5429539,6.600924
+2023-02-10,unbekannt,4.5,180,995000,"Mülibüüne 8, 3422 Kirchberg BE, BE",BE,,clean,47.09211225,7.5763607
+2023-02-10,Neubau,5.5,180,1490000,"Fürstenlandstrasse 69, 9500 Wil SG, SG",SG,,clean,47.465272999999996,9.06389165
+2023-02-10,Neubau,3.5,82,745000,"Nelkenstrasse 16, 4410 Liestal, BL",BL,,clean,47.4829419,7.7407174
+2023-02-10,Neubau,4.5,139,950000,"Via Portiora, 15, 6500 Bellinzona, TI",TI,,clean,46.2141862,9.0317081
+2023-02-10,unbekannt,4.5,102,645000,"Aarbergstrasse 37, 3250 Lyss, BE",BE,,clean,47.07182225,7.303203473216809
+2023-02-10,unbekannt,4.5,107,595000,"Erlenweg 17, 2503 Biel/Bienne, BE",BE,,clean,47.1235478,7.254774405869137
+2023-02-10,unbekannt,2.5,58,495000,"Schnyderweg 8, 3604 Thun, BE",BE,,clean,46.7338946,7.613997008866054
+2023-02-10,unbekannt,5.5,218,1290000,"Stauwehrweg 22a, 4852 Rothrist, AG",AG,,clean,47.309882,7.8816582
+2023-02-10,unbekannt,3.5,89,598000,"Länggässli 17, 3604 Thun, BE",BE,,clean,46.7321301,7.6154867
+2023-02-10,unbekannt,4.5,159,2290000,"Sur demande 0, 1009 Pully, VD",VD,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,4.5,94,770000,"In der Haselmatte 4, 4153 Reinach BL, BL",BL,,clean,47.5080035,7.597734715164237
+2023-02-10,unbekannt,6.5,184,1649000,"Hauptstrasse 92, 4147 Aesch BL, BL",BL,,clean,47.471761,7.5971197
+2023-02-10,unbekannt,3.5,140,2390000,"Via Albaredo 29, 6645 Brione sopra Minusio, TI",TI,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,6.0,155,1940000,"Tannenweg 7, 3700 Spiez, BE",BE,,clean,46.686305000000004,7.6898515
+2023-02-10,unbekannt,4.5,120,870000,"Alte Landstrasse 9, 4657 Dulliken, SO",SO,,clean,47.351151,7.941528002739515
+2023-02-10,unbekannt,3.5,116,795000,"Grundweg 11, 9500 Wil SG, SG",SG,,clean,47.47243515,9.056847600000001
+2023-02-10,unbekannt,4.5,150,1025000,"Untere Grundgasse 7, 9500 Wil SG, SG",SG,,clean,47.4717888,9.0573761
+2023-02-10,unbekannt,3.5,98,630000,"Rue des Parcs 53, 2000 Neuchâtel, NE",NE,,clean,46.99300885,6.922418294391948
+2023-02-10,unbekannt,4.5,183,698000,"3930 Visp, VS",VS,,clean,46.296287833744856,7.8805516728395055
+2023-02-10,unbekannt,4.5,185,2700000,"Spinnereiplatz 1, 8041 Zürich, ZH",ZH,,clean,47.3387609,8.520509
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,78,570000,"Vordergasse 6, 3858 Hofstetten b. Brienz, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,78,575000,"Vordergasse 6, 3858 Hofstetten b. Brienz, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,serp_responsive#badge_new_building_lite,3.5,78,585000,"Vordergasse 6, 3858 Hofstetten b. Brienz, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,5.5,188,1270000,"Schodolergasse 22, 5620 Bremgarten AG, AG",AG,,clean,47.3509798,8.3388955
+2023-02-10,unbekannt,2.5,70,260000,"3954 Leukerbad, VS",VS,,clean,46.3823178,7.6275861
+2023-02-10,unbekannt,2.5,70,348000,"3954 Leukerbad, VS",VS,,clean,46.3823178,7.6275861
+2023-02-10,unbekannt,4.5,78,585000,"Luzernerstrasse 92, 6010 Kriens, LU",LU,,clean,47.036588449999996,8.292355530560666
+2023-02-10,unbekannt,6.5,298,3780000,"1800 Vevey, VD",VD,,clean,46.46285667860215,6.847039380430107
+2023-02-10,unbekannt,5.5,154,890000,"Ekkehardstrasse 4, 9400 Rorschach, SG",SG,,clean,47.47906415,9.482429628489736
+2023-02-10,unbekannt,3.5,91,415000,"Hauptstrasse 51, 2554 Meinisberg, BE",BE,,clean,47.1597511,7.347622791170943
+2023-02-10,unbekannt,3.5,90,1140000,"Dufaux-Strasse 65, 8152 Glattpark (Opfikon), ZH",ZH,,clean,47.4212078,8.5622426
+2023-02-10,unbekannt,3.5,155,990000,"Via alla Rocca 2, 6600 Locarno, TI",TI,,clean,46.1704444,8.78243807717817
+2023-02-10,unbekannt,3.5,121,825000,"Weiernstrasse 14, 8355 Aadorf, TG",TG,,clean,47.4998898,8.8991759
+2023-02-10,unbekannt,4.5,126,765000,"Haberkornweg 3, 3212 Gurmels, FR",FR,,clean,46.906762549999996,7.1919218685905175
+2023-02-10,unbekannt,4.5,124,795000,"Rte Principale 61, 1628 Vuadens, FR",FR,,clean,46.6184293,7.0095016
+2023-02-10,unbekannt,3.5,130,885000,"Untere Grundgasse 8, 9500 Wil SG, SG",SG,,clean,47.4717888,9.0573761
+2023-02-10,unbekannt,4.5,175,1625000,"Untere Grundgasse 9, 9500 Wil SG, SG",SG,,clean,47.4717888,9.0573761
+2023-02-10,unbekannt,4.5,180,1595000,"Untere Grundgasse 7, 9500 Wil SG, SG",SG,,clean,47.4717888,9.0573761
+2023-02-10,unbekannt,5.5,173,1145000,"Untere Grundgasse 8, 9500 Wil SG, SG",SG,,clean,47.4717888,9.0573761
+2023-02-10,unbekannt,4.5,155,970000,"Untere Grundgasse 9, 9500 Wil SG, SG",SG,,clean,47.4717888,9.0573761
+2023-02-10,unbekannt,3.5,160,1375000,"Untere Grundgasse 7, 9500 Wil SG, SG",SG,,clean,47.4717888,9.0573761
+2023-02-10,unbekannt,2.5,57,750000,"Friedheimstrasse 17, 8057 Zürich, ZH",ZH,,clean,47.40479435,8.550280033567919
+2023-02-10,unbekannt,3.5,98,565000,"Vorderer Schermen 4, 3063 Ittigen, BE",BE,,clean,46.97359495,7.47678851705151
+2023-02-10,unbekannt,5.5,140,845000,"Kappelenstrasse 43, 3250 Lyss, BE",BE,,clean,47.0688302,7.2971334
+2023-02-10,unbekannt,2.5,45,260000,"3982 Bitsch, VS",VS,,clean,46.3420649,8.016283755555556
+2023-02-10,unbekannt,4.5,119,570000,"Reherstrasse 23, 9016 St. Gallen, SG",SG,,clean,47.43789055,9.417558668299446
+2023-02-10,unbekannt,3.5,77,845000,"Landstrasse 105a, 5430 Wettingen, AG",AG,,clean,47.4657435,8.3280005
+2023-02-10,unbekannt,4.5,110,525000,"Walziweg 18, 5737 Menziken, AG",AG,,clean,47.2360113,8.1911811
+2023-02-10,unbekannt,4.5,170,1950000,"Via Orselina 4, 6600 Muralto, TI",TI,,clean,46.1774723,8.8058361
+2023-02-10,unbekannt,3.0,87,1100000,"Rossweidstrasse 1, 7270 Davos Platz, GR",GR,,clean,46.8028705,9.830301645340619
+2023-02-10,Neubau,3.5,78,565000,"Vordergasse 6, 3858 Hofstetten b. Brienz, BE",BE,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,5.5,160,1900000,"1820 Montreux, VD",VD,,clean,46.43113303645485,6.915871305351171
+2023-02-10,unbekannt,4.5,126,765000,"Haberkornweg 3, 3212 Gurmels, FR",FR,,clean,46.906762549999996,7.1919218685905175
+2023-02-10,unbekannt,2.5,73,990000,"Via Gabbio 6, 6612 Ascona, TI",TI,,clean,46.15121635,8.7803974
+2023-02-10,unbekannt,4.5,219,3250000,"Via Valmara 16, 6614 Brissago, TI",TI,,clean,46.1118582,8.7039721
+2023-02-10,unbekannt,2.5,73,990000,"Via Gabbio 6, 6612 Ascona, TI",TI,,clean,46.15121635,8.7803974
+2023-02-10,unbekannt,4.5,136,925000,"Weiernstrasse 14, 8355 Aadorf, TG",TG,,clean,47.4998898,8.8991759
+2023-02-10,unbekannt,4.5,136,995000,"Weiernstrasse 14, 8355 Aadorf, TG",TG,,clean,47.4998898,8.8991759
+2023-02-10,unbekannt,3.5,121,900000,"Weiernstrasse 14, 8355 Aadorf, TG",TG,,clean,47.4998898,8.8991759
+2023-02-10,unbekannt,4.5,136,945000,"Weiernstrasse 14, 8355 Aadorf, TG",TG,,clean,47.4998898,8.8991759
+2023-02-10,unbekannt,3.5,121,850000,"Weiernstrasse 14, 8355 Aadorf, TG",TG,,clean,47.4998898,8.8991759
+2023-02-10,unbekannt,3.5,99,580000,"Hauptstrasse 48a, 2554 Meinisberg, BE",BE,,clean,47.1585868,7.3472251
+2023-02-10,unbekannt,3.5,87,1060000,"Binningerstrasse 45, 4104 Oberwil BL, BL",BL,,clean,47.5165441,7.5584748
+2023-02-10,unbekannt,6.5,168,690000,"Neuweg 9, 4537 Wiedlisbach, BE",BE,,clean,47.246667349999996,7.641505487103178
+2023-02-10,unbekannt,8.5,246,2650000,"Therwilerstrasse 29, 4104 Oberwil BL, BL",BL,,clean,47.5122006,7.56235120109819
+2023-02-10,unbekannt,4.5,155,255000,"Allmendstrasse 82, 4497 Rünenberg, BL",BL,,clean,47.4307652,7.8831756
+2023-02-10,unbekannt,4.5,111,548000,"Giessenstrasse 3, 9434 Au SG, SG",SG,,clean,47.43169365,9.635633248359637
+2023-02-10,unbekannt,4.5,97,595000,"Felsenaustrasse 34, 8200 Schaffhausen, SH",SH,,clean,47.7107374,8.6303617
+2023-02-10,unbekannt,4.5,99,395000,"Löwenacker 8, 4626 Niederbuchsiten, SO",SO,,clean,47.300568600000005,7.7736591042050005
+2023-02-10,unbekannt,2.5,96,650000,"Im Langen Loh 120, 4054 Basel, BS",BS,,clean,47.551187,7.5609866
+2023-02-10,unbekannt,4.5,157,1595000,"Dorfstrasse 1, 6026 Rain, LU",LU,,clean,47.1304854,8.25938013267525
+2023-02-10,unbekannt,3.5,79,445000,"Feldstrasse 4, 4663 Aarburg, AG",AG,,clean,47.3300413,7.9020872
+2023-02-10,unbekannt,4.0,82,1050000,"Mattastrasse 5, 7270 Davos Platz, GR",GR,,clean,46.7944045,9.8249213
+2023-02-10,unbekannt,4.5,0,705000,"Guldenenstrasse 3, 8610 Uster, ZH",ZH,,clean,47.3465999,8.7008659
+2023-02-10,unbekannt,3.5,90,1550000,"Feldpark 29, 6300 Zug, ZG",ZG,,clean,47.1812505,8.5149691
+2023-02-10,unbekannt,2.5,53,298000,"Mattfeldstrasse 17, 9532 Rickenbach b. Wil, TG",TG,,clean,47.4526311,9.047321449999998
+2023-02-10,unbekannt,6.5,227,1680000,"Rue de l'Evole 35A, 2000 Neuchâtel, NE",NE,,clean,46.9899496,6.9221834
+2023-02-10,unbekannt,4.5,98,560000,"Waldhausweg 2, 5032 Aarau Rohr, AG",AG,,clean,47.4052126,8.0916678
+2023-02-10,unbekannt,4.5,135,795000,"Sonnfeld 25, 6212 St. Erhard, LU",LU,,clean,47.18665675,8.070820600000003
+2023-02-10,unbekannt,3.5,103,510000,"Rue du Temple, 2735 Bévilard, BE",BE,,clean,47.2380564,7.2802465
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,157,720000,"Rue du Temple, 2735 Bévilard, BE",BE,,clean,47.2380564,7.2802465
+2023-02-10,unbekannt,6.0,135,495000,"Rue du Parc 107, 2300 La Chaux-de-Fonds, NE",NE,,clean,47.0980115,6.820148096834162
+2023-02-10,unbekannt,2.5,55,420000,"In den Holeematten 6, 4102 Binningen, BL",BL,,clean,47.54501425,7.566710408600486
+2023-02-10,unbekannt,3.5,81,349000,"Rankwog 6, 4632 Trimbach, SO",SO,,clean,47.369612849999996,7.9145812269420315
+2023-02-10,serp_responsive#badge_new_building_lite,4.5,136,1185000,"Pianostrasse 63, 2503 Biel/Bienne, BE",BE,,clean,47.1343169,7.2569066
+2023-02-10,serp_responsive#badge_new_building_lite,5.5,220,1950000,"Via del Canvetto 1, 6900 Lugano, TI",TI,,clean,46.0159702,8.9548637
+2023-02-10,unbekannt,4.5,118,844000,"Wiesengrundweg 13, 5524 Nesselnbach, AG",AG,,clean,47.3886187,8.2939346
+2023-02-10,unbekannt,5.5,116,1050000,"Ehrendingerstrasse 12, 5408 Ennetbaden, AG",AG,,clean,47.4743646,8.3121064
+2023-02-10,unbekannt,7.5,208,1250000,"1934 Le Châble VS, VS",VS,,clean,46.0806669,7.2142758
+2023-02-10,unbekannt,3.5,86,670000,"Vissaulastrasse 52, 3280 Murten, FR",FR,,clean,46.9234048,7.116750352072624
+2023-02-10,unbekannt,3.5,101,550000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,unbekannt,4.5,153,686700,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,unbekannt,4.5,117,650000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,unbekannt,4.5,247,2615000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,unbekannt,4.5,117,650000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,unbekannt,3.5,101,550000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,unbekannt,4.5,117,650000,"1950 Sion, VS",VS,,clean,46.230390014467496,7.357020468105118
+2023-02-10,unbekannt,4.5,133,1690000,"Frohburgstrasse 322, 8057 Zürich, ZH",ZH,,clean,47.4034908,8.560058212442431
+2023-02-10,unbekannt,3.5,124,345000,"Grand-Rue 39, 1454 L'Auberson, VD",VD,,clean,46.8191457,6.468874398901711
+2023-02-10,unbekannt,3.5,87,1030000,"Binningerstrasse 45, 4104 Oberwil BL, BL",BL,,clean,47.5165441,7.5584748
+2023-02-10,unbekannt,4.5,82,999000,"Gutschstrasse 21, 6313 Menzingen, ZG",ZG,,clean,47.17521605,8.59593057921099
+2023-02-10,unbekannt,6.0,161,770000,"Scheunerweg 30, 3063 Ittigen, BE",BE,,clean,46.97151195,7.475892144730766
+2023-02-10,unbekannt,4.5,110,680000,"6900 Lugano, TI",TI,,clean,46.00978339039039,8.95266722897898
+2023-02-10,unbekannt,4.5,0,758000,"3902 Glis, VS",VS,,clean,46.31065342993631,7.980086503821656
+2023-02-10,unbekannt,4.5,201,1995000,"Avenue de la Riviera 4, 1820 Montreux, VD",VD,,clean,46.4280841,6.9217774
+2023-02-10,unbekannt,5.5,150,575000,"Ruchackerstrasse 12, 4542 Luterbach, SO",SO,,clean,47.2124048,7.5842458
+2023-02-10,unbekannt,4.5,126,595000,"Kiesfangstrasse 12, 7310 Bad Ragaz, SG",SG,,clean,unbekant,unbekannt
+2023-02-10,unbekannt,5.5,181,1260000,"Witackergasse 11, 8887 Mels, SG",SG,,clean,47.059172,9.4178906
+2023-02-10,unbekannt,4.5,159,3300000,"Seegartenstrasse 80, 8810 Horgen, ZH",ZH,,clean,47.261862,8.5963882
+2023-02-10,unbekannt,4.5,173,2080000,"Gurtenweg 60, 3074 Muri b. Bern, BE",BE,,clean,unbekant,unbekannt

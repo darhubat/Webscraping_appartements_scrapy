@@ -85,7 +85,7 @@ app.layout = html.Div(children=[
         ]),
 
     html.Div(id='footer',
-       children=[html.P('Dashboard Immo| © D. Hubatka')])
+       children=[html.P('Dashboard Immo | © D. Hubatka')])
 ])
 
 

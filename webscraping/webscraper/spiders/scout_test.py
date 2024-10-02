@@ -2,6 +2,7 @@ import scrapy
 from datetime import date
 
 # Anleitung auf: https://www.pluralsight.com/guides/crawling-web-python-scrapy
+# Dis ist nur ein Test-Datei, kein funktionierender Spyder!!
 # Web-Scraping Verkaufspreise Wohnungen Schweiz/FL
 
 class ScoutSpider(scrapy.Spider):
@@ -62,4 +63,4 @@ class ScoutSpider(scrapy.Spider):
 
 
 # Scrapy starten und Resultate in csv schreiben (-o fügt hinzu, -O überschreibt)
-#Shell: scrapy runspider tutorial\tutorial\spiders\scout_test.py -t csv -o ./output/appartements_1.csv
+#Shell: scrapy runspider webscraping\webscraping\spiders\scout_test.py -t csv -o ./output/appartements_1.csv

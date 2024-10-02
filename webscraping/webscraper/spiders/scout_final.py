@@ -102,4 +102,4 @@ def parse(self, response):
 
 
 # Scrapy starten und Resultate in csv schreiben (-o fügt hinzu, -O überschreibt => -t csv -o ./output/appartements_bereinigt.csv)
-#Shell Spider laufen lassen => scrapy runspider tutorial\tutorial\spiders\scout_final.py
+#Shell Spider laufen lassen => scrapy runspider webscraping\webscraping\spiders\scout_final.py

@@ -7,14 +7,13 @@ db_connection = mysql.connector.connect(
     host="localhost",  # z.B. "localhost"
     user="Dario",
     password="Xxxxxxxxx", #hier dein PW eingeben
-    database="database_homes"
-)
+    database="database_homes")
 
 
 # CSV-Datei laden
 csv_file = 'output\\appartements_bereinigt.csv'
 data = pd.read_csv(csv_file, delimiter=',', parse_dates=True)
-# Datenbereinigung Schritt 1
+# Datenbereinigung Schritt 1 für Übereinstimmung mit definierten MySQL-Datenbank-Typen
 data['Datum'] = pd.to_datetime(data['Datum'], errors='coerce').dt.normalize()
 data['Verkaufspreis'] = pd.to_numeric(data['Verkaufspreis'], errors='coerce').astype('Int64').fillna(0.0)
 data['Zimmeranzahl'] = pd.to_numeric(data['Zimmeranzahl'], errors='coerce').astype('float').fillna(0.0)
@@ -44,7 +43,8 @@ CREATE TABLE IF NOT EXISTS homes (
 cursor = db_connection.cursor()
 cursor.execute(create_table_query)
 
-# Daten in die MySQL-Tabelle einfügen
+
+# Daten vom gefilterten Pandas DataFrame in die MySQL-Tabelle einfügen
 for _, row in filtered_data.iterrows(): # _, Index wird damit ignoriert, da wir diesen nicht benötigen
     insert_query = """
     INSERT INTO homes (Datum, Wohnungsart, ZimmerAnzahl, Wohnungsgroesse_m2, Verkaufspreis, WohnungsAdresse, Kanton, 

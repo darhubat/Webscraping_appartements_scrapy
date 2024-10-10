@@ -13,13 +13,12 @@ app = dash.Dash(__name__, meta_tags=[{'name': 'viewport', 'content': 'width=devi
 # für Heroku-Server ist die untenstehende Zeile notwendig
 server = app.server
 
-
 # Daten für das Dashboard werden direkt aus einer MySQL-Datenbank abgerufen
 def fetch_data():
     db_connection = mysql.connector.connect(
         host="localhost",
         user="Dario",
-        password="Xxxxxxxxx",   # hier dein PW eingeben
+        password="Fopalu22!",   # hier dein PW eingeben
         database="database_homes"
     )
 
@@ -50,6 +49,11 @@ app.layout = html.Div(children=[
                     value=[art for art in df.Wohnungsart.unique()], )]),
 
     html.Div([html.H3('Begrenzung auf Kanton'),
+              # Hinzufügen eines Buttons für alle auswählen oder abwählen
+              html.Button('Alle auswählen', className='button5', id='select-all', n_clicks=0),
+              html.Button('Alle abwählen', className='button5', id='deselect-all', n_clicks=0),
+
+              # Die Checklist-Komponente für die Kantone
                 dcc.Checklist(id='Kanton',
                     options=[
                     # die Labels könnte man auch über eine Funktion als Liste automatisch generieren
@@ -69,31 +73,58 @@ app.layout = html.Div(children=[
                  value=[2.5, 3.5],)]),
              ]),
 
-
-    html.Div(id='content_div', children=[
-        dcc.Graph(id='scatter_geo', figure={}),
-        dcc.Graph(id='scatter_3D', figure={}),
-        dash_table.DataTable(
-        id="table_chart",
-        data=df.to_dict('records'),
-        sort_action='native',
-        filter_action="native",
-        columns=[
-            {'name': 'Standort', 'id': 'WohnungsAdresse', 'type': 'text'},
-            {'name': 'Art der Wohnung', 'id': 'Wohnungsart', 'type': 'text'},
-            {'name': 'Anz. Zimmer', 'id': 'ZimmerAnzahl', 'type': 'numeric'},
-            {'name': 'Verkaufspreis', 'id': 'Verkaufspreis', 'type': 'numeric'},
-            {'name': 'Kanton', 'id': 'Kanton', 'type': 'text'},
-            {'name': 'Erschienen', 'id': 'Datum', 'type': 'datetime'},
-        ],
-        page_size=9,
-        editable=True,
-        ),
+    dcc.Loading(id="loading", type="default", children=[
+        html.Div(id='content_div', children=[
+            dcc.Graph(id='scatter_geo', figure={}),
+            dcc.Graph(id='scatter_3D', figure={}),
+            dash_table.DataTable(
+                id="table_chart",
+                data=df.to_dict('records'),
+                sort_action='native',
+                filter_action="native",
+                columns=[
+                    {'name': 'Standort', 'id': 'WohnungsAdresse', 'type': 'text'},
+                    {'name': 'Art der Wohnung', 'id': 'Wohnungsart', 'type': 'text'},
+                    {'name': 'Anz. Zimmer', 'id': 'ZimmerAnzahl', 'type': 'numeric'},
+                    {'name': 'Verkaufspreis', 'id': 'Verkaufspreis', 'type': 'numeric'},
+                    {'name': 'Kanton', 'id': 'Kanton', 'type': 'text'},
+                    {'name': 'Erschienen', 'id': 'Datum', 'type': 'datetime'},
+                ],
+                page_size=9,
+                editable=True,
+            ),
         ]),
+    ]),
 
     html.Div(id='footer',
        children=[html.P('Dashboard Immo | © darhubat')])
 ])
+
+
+# Callback für "Alle auswählen" und "Alle abwählen"
+@app.callback(
+    Output('Kanton', 'value'),
+    [Input('select-all', 'n_clicks'),
+     Input('deselect-all', 'n_clicks')],
+    [dash.dependencies.State('Kanton', 'options'),
+     dash.dependencies.State('Kanton', 'value')]
+)
+def select_deselect_all(select_all_clicks, deselect_all_clicks, kanton_options, current_value):
+    ctx = dash.callback_context
+
+    if not ctx.triggered:
+        return current_value  # Keine Änderung, wenn keine Schaltfläche geklickt wurde
+    else:
+        button_id = ctx.triggered[0]['prop_id'].split('.')[0]
+
+        if button_id == 'select-all':
+            # Alle Kantonswerte auswählen
+            return [kant['value'] for kant in kanton_options]
+        elif button_id == 'deselect-all':
+            # Alle Kantonswerte abwählen
+            return []
+
+    return current_value  # Standardmäßig keine Änderung, falls keine Trigger aktiv sind
 
 
 @app.callback(
